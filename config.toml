@@ -3,8 +3,8 @@ baseURL = "http://ujkuo.github.io/"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true
-math = true            # enable KaTeX (https://katex.org/) globally
-googleAnalytics = ""   # add your tracking id
+math = true           # enable KaTeX (https://katex.org/) globally
+googleAnalytics = ""  # add your tracking id
 
 [params]
   author = "Yu-Chieh Kuo"
@@ -61,10 +61,6 @@ googleAnalytics = ""   # add your tracking id
     name = "Articles"
     url = "/posts/"
     weight = 4
-    [menu.main.params]
-        post = "<span class='alert'>New!</span>"
-        class = "highlight-menu-item"
-
 
 [markup.goldmark.renderer]
   unsafe = true  # allow raw HTML in markdown files
