@@ -1,4 +1,4 @@
-ttle = "Yu-Chieh UJ Kuo"
+title = "Yu-Chieh UJ Kuo"
 baseURL = "http://ujkuo.github.io/"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
