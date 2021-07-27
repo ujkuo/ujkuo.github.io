@@ -27,7 +27,7 @@ googleAnalytics = ""  # add your tracking id
   [[params.socialIcons]]
     icon = "fab fa-github-square"
     title = "Github"
-    url = "https://github.com.ujkuo"
+    url = "https://github.com/ujkuo"
   [[params.socialIcons]]
     icon = "fab fa-linkedin"
     title = "LinkedIn"

@@ -1,6 +1,7 @@
 +++
-date = "2021-01-05"
 title = "Convex Optimization"
 +++
 
-## CO
+## Convex Optimization
+
+This course was taught by Prof. Bo-ching Su.
