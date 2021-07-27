@@ -1,3 +1,70 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Yu-Chieh UJ Kuo"
+baseURL = "http://ujkuo.github.io/"
+theme = "researcher"
+disableKinds = ["taxonomy", "term"]
+enableEmoji = true
+math = true           # enable KaTeX (https://katex.org/) globally
+googleAnalytics = ""  # add your tracking id
+
+[params]
+  author = "Yu-Chieh Kuo"
+  description = "A simple personal website made by Hugo."
+  favicon = "favicon.ico"  # path to a .ico to use as favicon
+  logo = ""  # url or path to a logo to put in the header
+  include_toc = true
+  [params.footer]
+    text = "By Yu-Chieh UJ Kuo"
+    url = "https://github.com/ujkuo"
+    height = "50px"
+    weight = "50px"
+  [params.style]  # appearance options (can be omitted)
+    fontFamily = "Inconsolata"
+    fontSize = "20"
+    pageWidth = "900px"
+    avatarSize = "70px"
+    colorBlack = "#222222"
+    colorRed = "#dc3545"
+  [[params.socialIcons]]
+    icon = "fab fa-github-square"
+    title = "Github"
+    url = "https://github.com.ujkuo"
+  [[params.socialIcons]]
+    icon = "fab fa-linkedin"
+    title = "LinkedIn"
+    url = "https://www.linkedin.com/in/yu-chieh-kuo-94645b193/"
+  [[params.socialIcons]]
+    icon = "fas fa-envelope"
+    title = "E-mail"
+    url = "ujkuo@ntu.im"
+  [[params.socialIcons]]
+    icon = "fab fa-facebook"
+    title = "Facebook"
+    url = "https://www.facebook.com/jerry.kuo.313/"
+
+[permalinks]
+  "/" = "/:filename"
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 1
+  [[menu.main]]
+    name = "Resume"
+    url = "/resume.pdf"
+    weight = 2
+  [[menu.main]]
+    name = "Courses"
+    url = "/course/"
+    weight = 3
+  [[menu.main]]
+    name = "Articles"
+    url = "/posts/"
+    weight = 4
+    [menu.main.params]
+        post = "<span class='alert'>New!</span>"
+        class = "highlight-menu-item"
+
+
+[markup.goldmark.renderer]
+  unsafe = true  # allow raw HTML in markdown files
