@@ -1,5 +1,5 @@
 +++
 title = "Courseworks in NTU"
-slug = "This si "
+description = "This si "
 +++
 
