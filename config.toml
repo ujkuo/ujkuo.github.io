@@ -1,10 +1,10 @@
-title = "Yu-Chieh UJ Kuo"
+ttle = "Yu-Chieh UJ Kuo"
 baseURL = "http://ujkuo.github.io/"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true
-math = true           # enable KaTeX (https://katex.org/) globally
-googleAnalytics = ""  # add your tracking id
+math = true            # enable KaTeX (https://katex.org/) globally
+googleAnalytics = ""   # add your tracking id
 
 [params]
   author = "Yu-Chieh Kuo"
