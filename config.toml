@@ -18,7 +18,7 @@ googleAnalytics = ""  # add your tracking id
     height = "50px"
     weight = "50px"
   [params.style]  # appearance options (can be omitted)
-    fontFamily = "Inconsolata"
+    fontFamily = "Inconsolata" #Inconsolata
     fontSize = "20"
     pageWidth = "900px"
     avatarSize = "70px"
