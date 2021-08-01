@@ -31,4 +31,9 @@ got good grades.
 My research interest concentrates on the field regarding the combination of technology and social science for social good, 
 including Data Science, Economics, Information Management/Science and Social Computing, etc.
 To improve my ability to do academic researchs, I am taking advanced courses such as Mathematics Analysic, Linear Algebra, 
-Data Visualization and other graduate level courses. Selected courses are listed in my resume.
+Data Visualization, Microeconomics Theory and other graduate level courses. Selected courses are listed in my resume. **If you are interested in taking courses together, please contact me then we can
+have a study group.**
+
+## Others
+
+Cuisine lover, LaTeX lover, Vim lover, Cat lover 
