@@ -8,9 +8,9 @@ date = "2021-08-01"
 
 I am Yu-Chieh Kuo, a student double major in the Department of Information Management and the 
 Department of Mathematics at National Taiwan University, NTU.
-Before I entered into NTU, I studied at Taipei Municipal ChienKuo High School.
+Before I entered into NTU, I studied at Taipei Municipal ChienKuo High School, Taipei, Taiwan.
 
-Currently I am a college student, a part-time home tutor teaching many students, a project manager and a photographer.
+Currently I'm a college student, a part-time home tutor teaching many students, a project manager and a photographer.
 
 ## Interest
 
