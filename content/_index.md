@@ -3,11 +3,10 @@ date = "2021-08-01"
 title = "YU-Chieh Kuo"
 +++
 
-## Brief Introduction
+## About Me
 
 <img src = "/photo.jpg" width = "120" figure class = "avatar" />
-
-<!---
+<!--
 {{< figure class="avatar" src="/photo.jpg" alt="photo">}}
 -->
 
