@@ -39,16 +39,16 @@ googleAnalytics = ""  # add your tracking id
   [[params.socialIcons]]
     icon = "fab fa-facebook"
     title = "Facebook"
-    url = "https://www.facebook.com/jerry.kuo.313/"
+    url = "https://www.facebook.com/YuChieh.Jesse.Kuo"
 
 [permalinks]
   "/" = "/:filename"
 
 [menu]
-  [[menu.main]]
-    name = "About"
-    url = "/about"
-    weight = 1
+  #[[menu.main]]
+  #  name = "About"
+  #  url = "/about"
+  #  weight = 1
   [[menu.main]]
     name = "Resume"
     url = "/resume.pdf"
