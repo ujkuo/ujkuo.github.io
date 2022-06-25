@@ -1,4 +1,4 @@
-title = "Yu-Chieh UJ Kuo"
+title = "Yu-Chieh Jesse Kuo"
 baseURL = "http://ujkuo.github.io/"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
@@ -13,7 +13,7 @@ googleAnalytics = ""  # add your tracking id
   logo = ""  # url or path to a logo to put in the header
   include_toc = true
   [params.footer]
-    text = "By Yu-Chieh UJ Kuo"
+    text = "By Yu-Chieh Jesse Kuo"
     url = "https://github.com/ujkuo"
     height = "50px"
     weight = "50px"
