@@ -54,8 +54,7 @@ at [National Taiwan University, NTU.](https://www.ntu.edu.tw/english/)
 My research interests span economics of social interactions, 
 information economics, structural and empirical marketing science and online learning behavior.
 Currently, I am fortunate to work with [Prof. Chih-Sheng Hsieh](https://sites.google.com/site/chihshenghsieh/) 
-on social interactions and applied econometrics.
-
+on social interactions analysis and applied econometrics.
 Previously, I was working with [Prof. Lin-Shan Lee](https://www.ee.ntu.edu.tw/profile1.php?teacher_id=901017)
 on web development.
 
