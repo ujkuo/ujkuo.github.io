@@ -4,6 +4,7 @@ date = "2021-08-01"
 +++
 
 <!--
+############### NOT USED
 ## About Me
 
 I am Yu-Chieh Kuo, a student double major in the Department of Information Management and the 
