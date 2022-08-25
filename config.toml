@@ -51,7 +51,7 @@ googleAnalytics = ""  # add your tracking id
   #  weight = 1
   [[menu.main]]
     name = "CV"
-    url = "resume.pdf"
+    url = "CV.pdf"
     weight = 2
   [[menu.main]]
     name = "Courses"
