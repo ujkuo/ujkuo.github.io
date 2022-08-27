@@ -1,0 +1,188 @@
+<script type="text/javascript" src= '/js/pdf-js/build/pdf.js'></script>
+<link href="/fontawesome/css/all.min.css" rel="stylesheet">
+
+<style>
+#embed-pdf-container {
+  position: relative;
+  width: 100%;
+  height: auto;
+  /* overflow-y:scroll; */
+}
+
+.pdf-canvas {
+  border: 1px solid black;
+  direction: ltr;
+  width: 100%;
+  height: auto;
+  display: none;
+}
+
+#loadingWrapper {
+  display: none;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 350px;
+}
+
+#loading {
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  border: 3px solid #d2d0d0;;
+  border-radius: 50%;
+  border-top-color: #383838;
+  animation: spin 1s ease-in-out infinite;
+  -webkit-animation: spin 1s ease-in-out infinite;
+}
+
+#overlayText > a:link{
+  color: steelblue;
+}
+
+#overlayText {
+  position: absolute;
+  word-wrap: break-word;
+  right: 5px;
+  top: 5px;
+}
+
+@keyframes spin {
+  to { -webkit-transform: rotate(360deg); }
+}
+@-webkit-keyframes spin {
+  to { -webkit-transform: rotate(360deg); }
+}
+</style>
+
+<div id="embed-pdf-container">
+  <div id="loadingWrapper">
+    <div id="loading"></div>
+  </div>
+  <div id="overlayText">
+    <a href="/cv.pdf" download>
+      <i class="fas fa-download fa-2x"></i>
+    </a>
+  </div>
+  <!-- Dynamically add canvas here -->
+</div>
+
+<script type="text/javascript">
+window.onload = function() {
+// If absolute URL from the remote server is provided, configure the CORS
+// header on that server.
+var url = "{{.Site.BaseURL}}" + '{{ .Get "url" }}';
+
+// Loaded via <script> tag, create shortcut to access PDF.js exports.
+var pdfjsLib = window['pdfjs-dist/build/pdf'];
+
+// The workerSrc property shall be specified.
+pdfjsLib.GlobalWorkerOptions.workerSrc = "{{.Site.BaseURL}}" + '/js/pdf-js/build/pdf.worker.js';
+
+// Change the Scale value for lower or higher resolution. Start from first page.
+var pdfDoc = null,
+    pageNum = 1,
+    pageRendering = false,
+    pageNumPending = null,
+    scale = 3,
+    loadingWrapper = document.getElementById('loadingWrapper');
+
+
+// Attempt to show paginator and loader if enabled
+showLoader();
+
+/**
+ * Get page info from document, resize canvas accordingly, and render page.
+ * @param num Page number.
+ */
+function renderPage(num) {
+  pageRendering = true;
+  // Using promise to fetch the page
+  pdfDoc.getPage(num).then(function(page) {
+    var pdf_cont = document.getElementById('embed-pdf-container');
+    var canvas = getCanvas(num);
+    pdf_cont.appendChild(canvas);
+
+    var viewport = page.getViewport({scale: scale});
+    canvas.height = viewport.height;
+    canvas.width = viewport.width;
+
+    var ctx = canvas.getContext('2d');
+
+    // Render PDF page into canvas context
+    var renderContext = {
+      canvasContext: ctx,
+      viewport: viewport
+    };
+    var renderTask = page.render(renderContext);
+
+    // Wait for rendering to finish
+    renderTask.promise.then(function() {
+      pageRendering = false;
+      showContent(canvas);
+
+      if (pageNumPending !== null) {
+        // New page rendering is pending
+        renderPage(pageNumPending);
+        pageNumPending = null;
+      }
+    });
+  });
+
+}
+
+// Render all pages
+function renderAllPages() {
+  for (var i = 1; i <= pdfDoc.numPages; i++) {
+    renderPage(i);
+  }
+}
+
+/**
+ * Hides loader and shows canvas
+ */
+function showContent(canvas) {
+  loadingWrapper.style.display = 'none';
+  canvas.style.display = 'block';
+}
+
+/**
+ * If we haven't disabled the loader, show loader and hide canvas
+ */
+function showLoader() {
+  loadingWrapper.style.display = 'flex';
+}
+
+/**
+ * If another page rendering in progress, waits until the rendering is
+ * finished. Otherwise, executes rendering immediately.
+ */
+function queueRenderPage(num) {
+  if (pageRendering) {
+    pageNumPending = num;
+  } else {
+    renderPage(num);
+  }
+}
+
+/**
+ * Get a canvas
+ */
+function getCanvas(num) {
+  var canvasId = 'embed-pdf-container-' + num;
+  var canvas = document.createElement("canvas");
+  canvas.id = canvasId;
+  canvas.className = 'pdf-canvas';
+  return canvas
+}
+
+/**
+ * Asynchronously downloads PDF.
+ */
+pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
+  pdfDoc = pdfDoc_;
+  renderAllPages();
+});
+}
+
+</script>

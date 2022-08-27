@@ -1,5 +1,5 @@
 +++
 title = "Courseworks in NTU"
-description = "I would like to share selected courseworks to this page. The post may include course note, course material, my opinion about this course."
+description = "I would like to share some term projects and courseworks here."
 +++
 
