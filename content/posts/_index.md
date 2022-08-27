@@ -1,7 +1,7 @@
 +++
-description = "This is "
-title = "我ㄉ一些廢話"
+title = "Article"
+description = "Here I may upload pieces of literature reviews, personal observations and/or technical stuffs."
 +++
 
+## Article
 
-## This is my posts
