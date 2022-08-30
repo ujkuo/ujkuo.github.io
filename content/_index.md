@@ -13,12 +13,14 @@ title = "YU-Chieh Kuo"
 -->
 
 <!--<div style='text-align: justify; font-size: 16pt;'> -->
-I am a senior student majoring in the [Department of Information Management](https://management.ntu.edu.tw/en/IM)
-and minoring in the [Department of Economics](https://econ.ntu.edu.tw/?locale=en) 
-at [National Taiwan University, NTU.](https://www.ntu.edu.tw/english/)
-My research interests span economics of social interactions, 
-information economics, structural and empirical marketing science and online learning behavior.
-Currently, I am fortunate to work with [Prof. Chih-Sheng Hsieh](https://sites.google.com/site/chihshenghsieh/) 
-on social interactions analysis and applied econometrics.
-Previously, I was working with [Prof. Lin-Shan Lee](https://www.ee.ntu.edu.tw/profile1.php?teacher_id=901017)
-on web development.
+A senior undergrad majoring in the [Department of Information Management](https://management.ntu.edu.tw/en/IM)
+at [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/)
+with a concentration
+in Business and Economics and a strong interest in Marketing research.
+Looking forward to becoming an economist and/or professor, marketing scientist, data scientist.
+
+Cat lover, tea addict, LaTeX user and promoter. Currently working as a research
+assistant for several professors and a mentor for several students on family relationships
+and study/application strategies.
+
+***I am looking for a pre-doc position. Please contact me if there is any opportunity.***
