@@ -4,8 +4,9 @@ Any comment and PR is welcome, and it's also welcome to contact me via email or 
 
 ## TODO List
 
-- [ ] Update about page.
-- [ ] Update articles and courses comment.
-- [ ] Write some articles in both English and Chinese.
-- [ ] Fix typo.
-- [ ] Change the web font.
+- [ ] Test other fonts.
+- [ ] Set tags for articles.
+- [ ] Enable topic directories for articles.
+- [ ] Classify articles by topics.
+- [ ] Web domain and favicon.
+- [ ] Test different parameters settings and functions to the configuration.
