@@ -19,7 +19,8 @@ with a concentration
 in Business and Economics and a strong interest in Marketing research.
 Looking forward to becoming an economist and/or professor, marketing scientist, data scientist.
 
-Cat lover, tea addict, LaTeX user and promoter. Currently working as a research
+Documentary and sports photographer/photojournalist, cat lover, tea addict, LaTeX user and promoter.
+Currently working as a research
 assistant for several professors and a mentor for several students on family relationships
 and study/application strategies.
 
