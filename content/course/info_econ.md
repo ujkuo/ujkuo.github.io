@@ -1,5 +1,6 @@
 +++
 title = "Information Economics"
+tags = "course"
 +++
 
 ## Information Economics

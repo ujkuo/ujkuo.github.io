@@ -1,7 +1,7 @@
 title = "Yu-Chieh Jesse Kuo"
 baseURL = "http://ujkuo.github.io/"
 theme = "researcher"
-disableKinds = ["taxonomy", "term"]
+#disableKinds = ["taxonomy", "term"]
 enableEmoji = true
 math = true           # enable KaTeX (https://katex.org/) globally
 googleAnalytics = ""  # add your tracking id
@@ -41,14 +41,16 @@ googleAnalytics = ""  # add your tracking id
     title = "Facebook"
     url = "https://www.facebook.com/YuChieh.Jesse.Kuo"
 
+[params.widgets]
+  categories = true # Enable "Categories" widgets
+  tage = true
+  tags_counter = false # Enable counter
+
+
 [permalinks]
   "/" = "/:filename"
 
 [menu]
-  #[[menu.main]]
-  #  name = "About"
-  #  url = "/about"
-  #  weight = 1
   [[menu.main]]
     name = "CV"
     url = "/cv/cv.pdf"
@@ -61,6 +63,10 @@ googleAnalytics = ""  # add your tracking id
     name = "Articles"
     url = "/posts/"
     weight = 4
+  [[menu.main]]
+    name = "Misc"
+    url = "/misc"
+    weight = 5
 
 [markup.goldmark.renderer]
   unsafe = true  # allow raw HTML in markdown files
