@@ -18,12 +18,12 @@ googleAnalytics = ""  # add your tracking id
     height = "50px"
     weight = "50px"
   [params.style]  # appearance options (can be omitted)
-    fontFamily = "Inconsolata" #Inconsolata
+    fontFamily = "PT Serif" #Inconsolata
     fontSize = "20"
     pageWidth = "900px"
     avatarSize = "70px"
     colorBlack = "#222222"
-    colorRed = "#dc3545"
+    colorRed = "#c02e2e" # dc3545
   [[params.socialIcons]]
     icon = "fab fa-github-square"
     title = "Github"
