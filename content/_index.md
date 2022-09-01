@@ -2,6 +2,7 @@
 +++
 date = "2021-08-01"
 title = "YU-Chieh Kuo"
+math = true
 +++
 
 
@@ -23,5 +24,7 @@ Documentary and sports photographer/photojournalist, cat lover, tea addict, LaTe
 Currently working as a research
 assistant for several professors and a mentor for several students on family relationships
 and study/application strategies.
+
+Sociologists and economists are interested
 
 ***I am looking for a pre-doc position. Please contact me if there is any opportunity.***
