@@ -40,6 +40,10 @@ googleAnalytics = ""  # add your tracking id
     icon = "fab fa-facebook"
     title = "Facebook"
     url = "https://www.facebook.com/YuChieh.Jesse.Kuo"
+  [[params.socialIcons]]
+    icon = "fab fa-twitter"
+    title = "Twitter"
+    url = "https://twitter.com/ycJesseKuo"
 
 [params.widgets]
   categories = true # Enable "Categories" widgets
