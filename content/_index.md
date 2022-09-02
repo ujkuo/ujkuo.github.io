@@ -20,9 +20,10 @@ with a concentration
 in Business and Economics and a strong interest in Marketing research.
 Looking forward to becoming an economist and/or professor, marketing scientist, data scientist.
 
-Documentary and sports photographer/photojournalist, cat lover, tea addict, LaTeX lover and promoter.
+Documentary and sports photographer/photojournalist, 
+cat lover, tea addict, LaTeX lover and promoter.
 Currently working as a research
-assistant for several professors and a mentor for several students on family relationships
+assistant for several professors and a mentor and consultant for several students on family relationships
 and study/application strategies.
 
 ***I am looking for a pre-doc position. Please let me know if there is any opportunity.***
