@@ -25,4 +25,4 @@ Currently working as a research
 assistant for several professors and a mentor for several students on family relationships
 and study/application strategies.
 
-***I am looking for a pre-doc position. Please contact me if there is any opportunity.***
+***I am looking for a pre-doc position. Please let me know if there is any opportunity.***
