@@ -25,6 +25,4 @@ Currently working as a research
 assistant for several professors and a mentor for several students on family relationships
 and study/application strategies.
 
-Sociologists and economists are interested
-
 ***I am looking for a pre-doc position. Please contact me if there is any opportunity.***
