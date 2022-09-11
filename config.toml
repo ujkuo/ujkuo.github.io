@@ -52,7 +52,7 @@ googleAnalytics = ""  # add your tracking id
 
 
 [permalinks]
-  "/" = "/:filename"
+  "/" = "/:section/:filename"
 
 [menu]
   [[menu.main]]
