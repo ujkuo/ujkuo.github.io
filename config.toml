@@ -15,7 +15,7 @@ googleAnalytics = ""  # add your tracking id
 #google_fonts=""
   google_fonts = [
     ["PT Serif", "400, 700"],
-    ["Fondamento", "400, 700"]
+    ["Corben", "400"],
   ]
   body_font = "PT Serif"
   heading_font = "PT Serif"

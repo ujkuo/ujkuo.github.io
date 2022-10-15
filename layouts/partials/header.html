@@ -1,6 +1,6 @@
 <div class="container mt-5">
     <nav class="navbar navbar-expand-sm flex-column flex-sm-row text-nowrap p-0">
-        <a class="navbar-brand mx-0 mr-sm-auto" style="font-family: Apple Chancery"href="{{ .Site.BaseURL }}" title="{{ .Site.Title }}">
+        <a class="navbar-brand mx-0 mr-sm-auto" style="font-family: Corben; "href="{{ .Site.BaseURL }}" title="{{ .Site.Title }}">
           {{ with .Site.Params.logo }}
             <img src="{{ . | absURL }}" alt="logo">
           {{ end }}
@@ -10,11 +10,11 @@
             {{ with .Site.Menus.main }}
                 {{ $navbar_len := len . }}
                 {{ range $i, $nav_item := . }}
-                    <a class="nav-item nav-link" style="font-family: Apple Chancery; font-size: 16pt" href="{{ $nav_item.URL }}" title="{{ $nav_item.Name }}">
+                    <a class="nav-item nav-link" style="font-family: Corben; font-size: 14pt" href="{{ $nav_item.URL }}" title="{{ $nav_item.Name }}">
                         {{ $nav_item.Pre }}{{ $nav_item.Name }}{{ $nav_item.Post }}
                     </a>
                     {{ if ne (add $i 1) $navbar_len }}
-                        <span class="nav-item navbar-text mx-1", style="font-size: 14pt">||</span>
+                        <span class="nav-item navbar-text mx-1", style="font-family: Corben; font-size: 14pt">||</span>
                     {{ end }}
                 {{ end }}
             {{ end }}
