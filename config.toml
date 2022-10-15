@@ -12,13 +12,17 @@ googleAnalytics = ""  # add your tracking id
   favicon = "favicon.ico"  # path to a .ico to use as favicon
   logo = ""  # url or path to a logo to put in the header
   include_toc = true
+  google_fonts=""
+  body_font = "PT Serif"
+  heading_font = "PT_Serif"
   [params.footer]
     text = "By Yu-Chieh Jesse Kuo"
     url = "https://github.com/ujkuo"
     height = "50px"
     weight = "50px"
   [params.style]  # appearance options (can be omitted)
-    fontFamily = "PT Serif" #Inconsolata
+    fontFamily = "PT Serif" 
+    # "PT Serif" #Inconsolata
     fontSize = "20"
     pageWidth = "900px"
     avatarSize = "70px"

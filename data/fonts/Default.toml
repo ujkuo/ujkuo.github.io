@@ -1,0 +1,6 @@
+[params]
+  google_fonts = [
+  ]
+
+  heading_font = "PT Serif"
+  body_font = "PT Serif"
