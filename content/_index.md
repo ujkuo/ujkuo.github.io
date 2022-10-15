@@ -29,13 +29,14 @@ img{
 A senior undergrad majoring in the [Department of Information Management](https://management.ntu.edu.tw/en/IM)
 at [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/)
 with a concentration
-in Business and Economics and a strong interest in Marketing research.
-Looking forward to becoming an economist and/or professor, marketing scientist, data scientist.
+in Business and Economics and a strong interest in various fields such as IO, consumer behavior on marketing, 
+and social interactions and its application.
+Looking forward to becoming an economist and a professor.
 
-Documentary and sports photographer/photojournalist, 
+Documentary and sports photographer/photojournalist for over five years, 
 cat lover, tea addict, LaTeX lover and promoter.
 Currently working as a research
-assistant for several professors and a mentor and consultant for several students on family relationships
-and study/application strategies.
+assistant for several professors, and a mentor and consultant for several students on the family relationship,
+study plans and application strategies.
 
 ***I am looking for a pre-doc position. Please let me know if there is any opportunity.***
