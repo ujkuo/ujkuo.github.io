@@ -1,6 +1,8 @@
-[params]
-  google_fonts = [
-  ]
+name = "default"
 
-  heading_font = "PT Serif"
-  body_font = "PT Serif"
+ google_fonts = ""
+
+ heading_font = "PT Serif"
+ body_font = "PT Serif"
+ nav_font = "PT Serif"
+ mono_font = "PT Serif"
