@@ -1,7 +1,7 @@
 /* Use the font config as variables in your SCSS */
 
-$font-heading: {{ $.Site.Params.heading_font | default "'Fira Code', sans-serif" }};
-$font-body: {{ $.Site.Params.body_font | default "'Fira Code', sans-serif" }};
+$font-heading: {{ $.Site.Params.heading_font | default "'PT Serif', sans-serif" }};
+$font-body: {{ $.Site.Params.body_font | default "'PT Serif', sans-serif" }};
 
 body {
   font-family: $font-body;

@@ -50,3 +50,10 @@
        url('../fonts/pt-serif-v17-latin-700italic.ttf') format('truetype'), /* Safari, Android, iOS */
        url('../fonts/pt-serif-v17-latin-700italic.svg#PTSerif') format('svg'); /* Legacy iOS */
 }
+@font-face {
+  font-family: 'Apple Chancery';
+  font-style: italic;
+  font-weight: 400;
+  src: local(''),
+    url('../fonts/Apple\ Chancery.ttf') format('truetype');
+}

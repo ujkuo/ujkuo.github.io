@@ -14,18 +14,18 @@ googleAnalytics = ""  # add your tracking id
   include_toc = true
 #google_fonts=""
   google_fonts = [
-    ["Fira Code", "400, 700"],
-    ["Open Sans", "400, 400i, 700, 700i"]
+    ["PT Serif", "400, 700"],
+    ["Fondamento", "400, 700"]
   ]
-  body_font = "Fira Code"
-  heading_font = "Fira Code"
+  body_font = "PT Serif"
+  heading_font = "PT Serif"
   [params.footer]
     text = "By Yu-Chieh Jesse Kuo"
     url = "https://github.com/ujkuo"
     height = "50px"
     weight = "50px"
   [params.style]  # appearance options (can be omitted)
-    fontFamily = "Fira Code" 
+    fontFamily = "PT Serif" 
     # "PT Serif" #Inconsolata
     fontSize = "20"
     pageWidth = "900px"
