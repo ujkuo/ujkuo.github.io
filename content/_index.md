@@ -7,13 +7,25 @@ math = true
 
 
 ## About Me
-
-<img src = "/photo.jpg" width = "120" figure class = "avatar" />
+<div>
+<img src = "/photo.jpg" class="avatar">
+</div>
+<style>
+img{
+  text-align: left;
+  width: 150px;
+  height: 150px;
+  border-radius: 70%;
+}
+#left {    
+ text-align: left;  
+ }
+</style>
 <!--
-{{< figure class="avatar" src="/photo.jpg" alt="photo">}}
+{{< figure class="avatar" src="/photo.jpg" alt="Avatar">}}
 -->
 
-<!--<div style='text-align: justify; font-size: 16pt;'> -->
+<!--<div style='text-align: justify; font-size: 16pt;'> --> 
 A senior undergrad majoring in the [Department of Information Management](https://management.ntu.edu.tw/en/IM)
 at [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/)
 with a concentration
