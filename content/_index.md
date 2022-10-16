@@ -73,5 +73,7 @@ Sep. 2015 - June 2018.
 - Core Member in the teaching department in [NTU Tutor Team](https://ntututorteam.com/), 2021.
   - Aim at eliminating the inequality of educational resources led by the social-structural gap including
   the urban-rural gap and the gaps between social stratification and family economy in Taiwan.
+  See the [achievement report (in Chinese)](https://drive.google.com/file/d/1Nng5HRotynKWdHyqTVLZWLRga7oa-Fl4/view)
+  to understand our vision.
 - Student Representative of College of Management at 
 [NTU Student Congress](https://www.facebook.com/NTUStudentCongress/), Sep. 2022 - June 2023.
