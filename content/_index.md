@@ -30,7 +30,7 @@ I am a senior undergraduate majoring in the [Department of Information Managemen
 at [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/)
 with a concentration
 in Business, Economics and Interdisciplinary Research,
-a strong interest in IO, labor, decision theory, 
+a strong interest in applied microeconomics, quantitative marketing,
 and social interactions and its application,
 and an ambition to become a professor and a scholar.
 
