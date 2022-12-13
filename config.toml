@@ -32,10 +32,10 @@ googleAnalytics = "G-9WZ4VGS6XG"  # add your tracking id
     avatarSize = "70px"
     colorBlack = "#222222"
     colorRed = "#c02e2e" # dc3545
-  [[params.socialIcons]]
-    icon = "fab fa-github-square"
-    title = "Github"
-    url = "https://github.com/ujkuo"
+#  [[params.socialIcons]]
+#    icon = "fab fa-github-square"
+#    title = "Github"
+#    url = "https://github.com/ujkuo"
   [[params.socialIcons]]
     icon = "fab fa-linkedin"
     title = "LinkedIn"
@@ -44,10 +44,10 @@ googleAnalytics = "G-9WZ4VGS6XG"  # add your tracking id
     icon = "fas fa-envelope"
     title = "E-mail"
     url = "ujkuo@ntu.im"
-  [[params.socialIcons]]
-    icon = "fab fa-facebook"
-    title = "Facebook"
-    url = "https://www.facebook.com/YuChieh.Jesse.Kuo"
+#  [[params.socialIcons]]
+#    icon = "fab fa-facebook"
+#    title = "Facebook"
+#    url = "https://www.facebook.com/YuChieh.Jesse.Kuo"
   [[params.socialIcons]]
     icon = "fab fa-twitter"
     title = "Twitter"
