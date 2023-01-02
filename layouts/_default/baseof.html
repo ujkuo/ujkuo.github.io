@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <head>
   {{ partial "google-fonts" . }}
+  {{ if .Site.Params.GoogleAnalyticsID }}
+  {{ partial "analytics-gtag.html" . }}
+  {{ end }}
 </head>
 <html lang="{{ .Site.Params.lang }}">
     {{- partial "head.html" . -}}
