@@ -69,7 +69,7 @@ Sep. 2015 - June 2018.
   [Taipei 2017 Universiade](https://en.wikipedia.org/wiki/2017_Summer_Universiade), [Taipei Marathon](https://www.taipeicitymarathon.com),
   multiple National sports competitions.
   - At [THE REPORTER](https://www.twreporter.org), 2017 - 2018. / Photography projects assistance.
-- Facilitator for College Expo. at [NTU Azalea Festivel](https://event.ntu.edu.tw/azalea/2022/eng.html), 2020 and 2021.
+- Facilitator for College Expo. at [NTU Azalea Festivel](https://event.ntu.edu.tw/azalea/2022/eng.html), 2021-2023.
 - Facilitator for NTUIM Computational Thinking and Programming Design Camp, Fall 2021.
 - Core Member in the teaching department in [NTU Tutor Team](https://ntututorteam.com/), 2021.
   - Aim to eliminate educational inequality
