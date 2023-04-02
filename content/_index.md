@@ -51,10 +51,15 @@ Please let me know if there is any opportunity.***
 Sep. 2015 - Jun. 2018.
 
 ##### Experience
-- Research Assistant to Professor [Chih-Sheng Hsieh](https://sites.google.com/site/chihshenghsieh/) at Dept. of Economics,<br /> Jun. 2022 - Present.
+- Research Assistant to Professor [Chih-Sheng Hsieh](https://sites.google.com/site/chihshenghsieh/) at Dept. of Economics, Jun. 2022 - Present.
 - Research Assistant to Professor [Chih-Ping Wei](https://management.ntu.edu.tw/en/IM/faculty/teacher/sn/15) at Dept. of Information Management,<br /> Jun. 2022 - Feb. 2023.
 - Teaching Assistant to Professor [Ling-Chieh Kung](http://www.im.ntu.edu.tw/~lckung/) at Dept. of Information Management,<br /> Mar. 2022 - Jun. 2022.
-  - At *Operations Research*, with 100+ students enrolled.
+  - *Operations Research*, senior elective, with 100+ students enrolled.
+  - Verified three assignments, two case studies, and the final exam and wrote six corresponding solutions with the rigorous mathematical statement and one additional
+  assignment writing guidance to help and encourage students.
+  - Built a course-oriented LaTeX class file and corresponding document to modularize and accelerate the file writing process.
+  - Graded 300+ assignments and 100 exam papers in a few days and managed grades for 100 enrolled students.
+  - Summarized precautions and details for the TA’s work in this course in a handover document to help the TA in the future.
 - Project Assistant to Professor [Lin-Shan Lee](https://linshanlee.com) at Dept. of Electrical Engineering,<br /> Jan. 2020 - Dec. 2021.
 - Mentor/Consultant in Education for 40+ students and families, Aug. 2018 - Present.
 
