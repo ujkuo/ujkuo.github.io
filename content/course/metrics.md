@@ -14,6 +14,10 @@ GMM, Constrained LS, Hypothesis Testing, Minimum Distance Estimators, James-Stei
 theoretical perspective.
 Other parts of this course include OLS, GLS, 2SLS, SEM, MLE, M-Estimation, and Casual Inference.
 
+In addition, I also took the computational econometrics to learn about the computational methods 
+for economic research. I've learned about Numerical Optimization, Bootstrapping, 
+Simulation-Based Estimation, Bayesian Estimation and MCMC, and Dynamic Programming.
+
 [Note 1](/pdf/metrics/w1.pdf) /
 [Note 2](/pdf/metrics/w2.pdf) /
 [Note 3](/pdf/metrics/w3.pdf) /
