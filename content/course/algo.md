@@ -9,10 +9,13 @@ I took both undergrad- and Ph.D.-level algorithms courses at NTU.
 The attachments below are part of my solutions to correspond assignments for the undergrad-level class. 
 Both classes’ remaining coursework and lecture notes will be organized and uploaded sooner.
 
-These two courses mainly teach algorithms from a theoretical perspective. 
-In these algorithm courses, I learned the most about thinking and the skills of algorithm analysis,
+These two courses mainly teach algorithms from a theoretical perspective.
+The topic of these courses include the time complexity analysis, dynamic programming, graph theory,
+(some of) approximation algorithms,
+and P versus NP problems.
+In these algorithm courses, I learned the most about algorithmic thing,
 the logic and correctness verification of algorithm, 
-the optimization analysis of algorithm, and how to design algorithm.
+the optimization analysis of algorithm, and how to design algorithms.
 
 [Assignment 1](/pdf/algo/hw1.pdf) /
 [Assignment 2](/pdf/algo/hw2.pdf) /
