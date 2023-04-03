@@ -1,9 +1,9 @@
 +++
-title = "Econometrics Theory"
+title = "Econometrics" 
 tags = "course"
 +++
 
-## Econometrics Theory
+## Econometrics
 
 I took the Ph.D.-level econometrics theory course at NTU. 
 The econometrics theory includes four parts, and 
