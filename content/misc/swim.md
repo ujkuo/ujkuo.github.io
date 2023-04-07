@@ -1,5 +1,5 @@
 +++
-title = "Swimmer Interview (in Chinese)"
+title = "An Interview with a Rising Star in the Swimming Competition (in Chinese)"
 +++
 
 # 弘道之行，誠兼泳育
