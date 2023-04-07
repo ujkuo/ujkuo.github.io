@@ -1,5 +1,5 @@
 +++
-title = "Introduction to IM-courses at NTU Azalea Festival (in Chinese)"
+title = "Introduction to IM-courses at NTU Azalea Festival 2021 (in Chinese)"
 +++
 
 # 台大資管杜鵑花節課程說明
