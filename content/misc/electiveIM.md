@@ -1,5 +1,5 @@
 +++
-title = "Introduction to elective courses of IM at NTU Azalea Festival 2023 (in Chinese)"
+title = "Introduction to Elective Courses of IM at NTU Azalea Festival 2023 (in Chinese)"
 +++
 
 ## 台大資管杜鵑花節選修課程說明
