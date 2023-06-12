@@ -1,5 +1,5 @@
 +++
-title = "Econometrics" 
+title = "[Econ] Econometrics" 
 tags = "course"
 +++
 

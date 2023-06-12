@@ -1,5 +1,5 @@
 +++
-title = "Algorithms"
+title = "[CS] Algorithms"
 tags = "course"
 +++
 

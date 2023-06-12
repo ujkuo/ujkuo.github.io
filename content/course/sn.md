@@ -1,5 +1,5 @@
 +++
-title = "Economic Analysis of Social Networks"
+title = "[Econ] Economic Analysis of Social Networks"
 +++
 
 ## Economic Analysis of Social Networks

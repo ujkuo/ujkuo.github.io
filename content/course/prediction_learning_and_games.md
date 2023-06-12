@@ -1,5 +1,5 @@
 +++
-title = "Online Machine Learning"
+title = "[CS] Online Machine Learning"
 +++
 
 ## Prediction, Learning, and Games

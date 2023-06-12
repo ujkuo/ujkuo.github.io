@@ -1,5 +1,6 @@
 +++
-title = "Text Mining"
+title = "[CS] Text Mining"
+tags = "course"
 +++
 
 ## Text Mining

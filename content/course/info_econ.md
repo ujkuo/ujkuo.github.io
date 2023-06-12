@@ -1,5 +1,5 @@
 +++
-title = "Information Economics"
+title = "[Biz] Information Economics"
 tags = "course"
 +++
 

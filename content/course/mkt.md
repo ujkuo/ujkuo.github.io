@@ -1,5 +1,5 @@
 +++
-title = "Game-theoretic Approach Marketing"
+title = "[Biz] Game-theoretic Approach Marketing"
 tags = "course"
 +++
 
