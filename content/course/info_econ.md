@@ -45,7 +45,7 @@ In particular, cooperation is only possible if the BOPS channel is more eﬀicie
 This finding holds regardless of the eﬀiciency of online channel, 
 consumers’ willingness to pay and the traveling cost as long as all parameters are within the range in consideration.
 
-The business and pricing strategy and marketing research on the platform have always been my research topics 
+> The business and pricing strategy and marketing research on the platform have always been my research topics 
 that I pay close attention to and love. 
 In particular, the platform has flourished under the development of the Internet in the past 30 years. 
 Many technology giants seen today, such as Amazon, Google, Facebook, Netflix, Uber, etc., 
