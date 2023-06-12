@@ -41,8 +41,9 @@ In addition,
 I also serve as a mentor and consultant for junior/senior high school students on the family relationship,
 study plans, and application strategies for over four years. 
 
-***I am looking for an opportunity for pre-doc/research assistant position. 
-Please let me know if there is any opportunity.***
+> ***I am looking for an opportunity for pre-doc/research assistant position. 
+Please let me know if there is any opportunity.*** 
+
 
 ##### Education
 - B.B.A. in [Information Management](https://management.ntu.edu.tw/en/IM), 
