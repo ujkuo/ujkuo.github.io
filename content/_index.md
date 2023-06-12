@@ -30,8 +30,8 @@ I am a senior undergraduate majoring in the [Department of Information Managemen
 at [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/)
 with a concentration
 in interdisciplinary research combining Economics, Business, and Data Science, and 
-strong interests and curiosity in applied microeconomics in business such as quantitative marketing, business strategies,
-information, and accounting,
+strong interests and curiosity in applied microeconomics in business (e.g. marketing, strategy,
+information, accounting),
 social network, and learning problems in Econ/CS.
 I am ambitious to become a professor and a researcher to contribute to society and the world.
 
