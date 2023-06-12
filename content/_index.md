@@ -59,7 +59,7 @@ Sep. 2015 - Jun. 2018.
   - *Operations Research*, senior elective, with 100+ students enrolled.
   - Verified three assignments, two case studies, and the final exam and wrote six corresponding solutions with the rigorous mathematical statement and one additional
   assignment writing guidance to help and encourage students.
-  - Built a course-oriented LaTeX class file and corresponding document to modularize and accelerate the file writing process.
+  - Built a course-oriented $\LaTeX$ class file and corresponding document to modularize and accelerate the file writing process.
   - Graded 300+ assignments and 100 exam papers in a few days and managed grades for 100 enrolled students.
   - Summarized precautions and details for the TA’s work in this course in a handover document to help the TA in the future.
 - Project Assistant to Professor [Lin-Shan Lee](https://linshanlee.com) at Dept. of Electrical Engineering,<br /> Jan. 2020 - Dec. 2021.
