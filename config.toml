@@ -76,7 +76,7 @@ googleAnalytics = "G-9WZ4VGS6XG"  # add your tracking id
     url = "/articles/"
     weight = 4
   [[menu.main]]
-    name = "Misc"
+    name = "Blog"
     url = "/misc"
     weight = 5
 
