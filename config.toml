@@ -17,6 +17,7 @@ googleAnalytics = "G-9WZ4VGS6XG"  # add your tracking id
     ["Caladea", "400, 600"],
     ["PT Serif", "400, 700"],
     ["Corben", "400"],
+    ["Averia Serif Libre", "400"],
   ]
   body_font = "Caladea"
   heading_font = "Caladea"
