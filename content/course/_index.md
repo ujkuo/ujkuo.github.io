@@ -2,7 +2,7 @@
 title = "Coursework in NTU"
 +++
 
-I would like to share some projects and course experiences here.
+This page aims to share my course experience and the projects and assignments I have done.
 
 ---
 
