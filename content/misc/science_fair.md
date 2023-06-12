@@ -1,5 +1,5 @@
 +++
-title = "Structural Problems in High School Science Fair -- An Interview and a Survey with Advising Teachers. (in Chinese)"
+title = "(Chinese) Structural Problems in High School Science Fair -- An Interview and a Survey with Advising Teachers"
 +++
 
 ### 熱血師生的辛酸淚，中小學科展的結構問題

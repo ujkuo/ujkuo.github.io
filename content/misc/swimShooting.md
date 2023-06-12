@@ -1,5 +1,5 @@
 +++
-title = "Tips for Shooting Swimming Competitions (in Chinese)"
+title = "(Chinese) Tips for Shooting Swimming Competitions"
 +++
 
 # 游泳比賽拍攝要點
