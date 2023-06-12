@@ -1,5 +1,5 @@
 +++
-title = "Misc"
+title = "Writing, Learning, and Observations"
 +++
 
 
