@@ -37,7 +37,7 @@ I am ambitious to become a professor and a researcher to contribute to society a
 
 Outside academia, I have been a 
 documentary and sports photographer/photojournalist for over five years, 
-cat lover, tea addict, and LaTeX lover and promoter.
+cat lover, tea addict, $\LaTeX$ lover and promoter.
 Moreover,
 I also serve as a mentor and consultant for junior/senior high school students on the family relationship,
 study plans, and application strategies for over five years. 
