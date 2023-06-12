@@ -26,7 +26,7 @@ In addition, we also understand the relationship between online learning and sta
 [(Hazan and Koren, (2016))](https://dl.acm.org/doi/pdf/10.1145/2897518.2897536), 
 and how to leverage each other's strengths.
 
-The biggest gain and extended thinking of this course is the improvement of the understanding of the literature,
+> The biggest gain and extended thinking of this course is the improvement of the understanding of the literature,
 and how to apply this type of knowledge to economic problems. 
 Issues such as non-parametric bayesian, model averaging, model selection, etc. are often mentioned in the class, 
 and econometrics also often discusses such issues. 
