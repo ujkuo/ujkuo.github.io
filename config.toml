@@ -14,19 +14,20 @@ googleAnalytics = "G-9WZ4VGS6XG"  # add your tracking id
   include_toc = true
 #google_fonts=""
   google_fonts = [
+    ["Caladea", "400, 600"],
     ["PT Serif", "400, 700"],
     ["Corben", "400"],
   ]
-  body_font = "PT Serif"
-  heading_font = "PT Serif"
+  body_font = "Caladea"
+  heading_font = "Caladea"
   [params.footer]
     text = "Support by Hugo"
     url = "https://gohugo.io"
     height = "50px"
     weight = "50px"
   [params.style]  # appearance options (can be omitted)
-    fontFamily = "PT Serif" 
-    # "PT Serif" #Inconsolata
+    fontFamily = "Caladea" 
+    # "Caladea" #Inconsolata
     fontSize = "20"
     pageWidth = "900px"
     avatarSize = "70px"
