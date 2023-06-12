@@ -26,5 +26,5 @@ So every time I have the opportunity to talk to young students,
 I hope that I can arouse their interest in thinking about higher-level issues, 
 instead of confining life to exams and schools.
 
-Although the [presentation briefing](https://hackmd.io/@ujkuo/Bkt3NVkps) is in Chinese, 
+Although the [presentation slide](https://hackmd.io/@ujkuo/Bkt3NVkps) is in Chinese, 
 I believe that Google Translate can convey the ideas in the presentation excellently.
