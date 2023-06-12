@@ -1,5 +1,5 @@
 +++
-title = "[Ph] East Asian Confucianisms: Humanism"
+title = "[PL] East Asian Confucianisms: Humanism"
 tags = "course"
 +++
 

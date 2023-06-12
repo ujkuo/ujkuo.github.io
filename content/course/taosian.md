@@ -1,5 +1,5 @@
 +++
-title = "[Ph] Taoism: Zhuang Zhou"
+title = "[PL] Taoism: Zhuang Zhou"
 tags = "course"
 +++
 
