@@ -30,16 +30,17 @@ I am a senior undergraduate majoring in the [Department of Information Managemen
 at [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/)
 with a concentration
 in interdisciplinary research combining Economics, Business, and Data Science, and 
-strong interests and curiosity in applied microeconomics, quantitative marketing, business strategies,
-social network/interaction and its applications, and learning problems in Econ/CS.
-I am ambitious to become a professor and scholar.
+strong interests and curiosity in applied microeconomics in business such as quantitative marketing, business strategies,
+information, and accounting,
+social network, and learning problems in Econ/CS.
+I am ambitious to become a professor and a researcher to contribute to society and the world.
 
 Outside academia, I have been a 
 documentary and sports photographer/photojournalist for over five years, 
-a cat lover, tea addict, and LaTeX lover and promoter.
-In addition,
+cat lover, tea addict, and LaTeX lover and promoter.
+Moreover,
 I also serve as a mentor and consultant for junior/senior high school students on the family relationship,
-study plans, and application strategies for over four years. 
+study plans, and application strategies for over five years. 
 
 > ***I am looking for an opportunity for pre-doc/research assistant position. 
 Please let me know if there is any opportunity.*** 
