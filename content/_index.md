@@ -67,7 +67,7 @@ Sep. 2015 - Jun. 2018.
 
 ##### Extracurricular
 - Student Representative of College of Management at 
-[NTU Student Congress](https://www.facebook.com/NTUStudentCongress/), Sep. 2022 - June 2023.
+[NTU Student Congress](https://www.facebook.com/NTUStudentCongress/), Sep. 2022 - Jun. 2023.
 - Facilitator for College Expo. at [NTU Azalea Festivel](https://event.ntu.edu.tw/azalea/2022/eng.html), 2021-2023.
 - Facilitator for NTUIM Computational Thinking and Programming Design Camp, Fall 2021.
 - Core Member in the teaching department in [NTU Tutor Team](https://ntututorteam.com/), 2021.
