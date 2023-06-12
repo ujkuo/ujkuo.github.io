@@ -20,8 +20,8 @@ googleAnalytics = "G-9WZ4VGS6XG"  # add your tracking id
   body_font = "PT Serif"
   heading_font = "PT Serif"
   [params.footer]
-    text = "By Yu-Chieh Jesse Kuo"
-    url = "https://github.com/ujkuo"
+    text = "Support by Hugo"
+    url = "https://gohugo.io"
     height = "50px"
     weight = "50px"
   [params.style]  # appearance options (can be omitted)
