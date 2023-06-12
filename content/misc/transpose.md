@@ -1,5 +1,5 @@
 +++
-title = "(Chinese) Why do economists use prime instead of T to represent the matrix transpose"
+title = "(Chinese) Why Do Economists Use Prime Instead of T to Represent the Matrix Transpose"
 +++
 
 剛開始接觸計量的時候很不習慣用 prime 來表示矩陣的 transpose，
