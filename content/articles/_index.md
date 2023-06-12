@@ -2,9 +2,7 @@
 title = "Article"
 +++
 
-Here I may upload pieces of research-related articles 
-such as literature reviews, paper write-ups, 
-and/or technical stuffs.
+Compared with Blog, on this page I will mainly share academic-related content, such as the write-up or comments of papers, etc.
 
 ---
 
