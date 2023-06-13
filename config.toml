@@ -5,6 +5,8 @@ theme = "researcher"
 enableEmoji = true
 math = true           # enable KaTeX (https://katex.org/) globally
 googleAnalytics = "G-9WZ4VGS6XG"  # add your tracking id
+PygmentsCodeFences = true
+PygmentsStyle = "tango"
 
 [params]
   author = "Yu-Chieh Kuo"
@@ -19,16 +21,16 @@ googleAnalytics = "G-9WZ4VGS6XG"  # add your tracking id
     ["Corben", "400"],
     ["Averia Serif Libre", "400"],
   ]
-  body_font = "Caladea"
-  heading_font = "Caladea"
+  body_font = "Corben"
+  heading_font = "Corben"
   [params.footer]
-    text = "Support by Hugo"
-    url = "https://gohugo.io"
+    fontFamily = "Corben"
+    text = "Copyright Yu-Chieh (Jesse) Kuo 2021 - 2023 | Colophon"
+    url = "/colophon/"
     height = "50px"
     weight = "50px"
   [params.style]  # appearance options (can be omitted)
-    fontFamily = "Caladea" 
-    # "Caladea" #Inconsolata
+    fontFamily = "Caladea" # font setting for all pages
     fontSize = "20"
     pageWidth = "900px"
     avatarSize = "70px"
@@ -84,3 +86,4 @@ googleAnalytics = "G-9WZ4VGS6XG"  # add your tracking id
 
 [markup.goldmark.renderer]
   unsafe = true  # allow raw HTML in markdown files
+
