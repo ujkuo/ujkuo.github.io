@@ -7,7 +7,7 @@
     </div>
     {{ with .Site.Params.footer }}
         <div class="container text-center">
-            <a href="{{ .url | absURL }}" title="{{ .text }}"><small style="font-family: Corben">{{ .text }}</small></a>
+            <a href="{{ .url | absURL }}" title="{{ .text }}"><small style="font-family: .Site.Params.heading_font; ">{{ .text }}</small></a>
         </div>
     {{ end }}
 </div>
