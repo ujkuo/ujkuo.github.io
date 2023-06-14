@@ -43,7 +43,7 @@ I also serve as a mentor and consultant for junior/senior high school students o
 study plans, and application strategies for over five years. 
 
 > ***I am looking for an opportunity for pre-doc/research assistant position. 
-Please let me know if there is any opportunity. I am very willing to devote myself to academic research.*** 
+Please let me know if there is any opportunity. I am keen to devote myself to academic research.*** 
 
 
 ##### Education
