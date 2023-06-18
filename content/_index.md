@@ -26,20 +26,19 @@ img{
 -->
 
 <!--<div style='text-align: justify; font-size: 16pt;'> --> 
-I am a senior undergraduate majoring in the [Department of Information Management](https://management.ntu.edu.tw/en/IM)
-at [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/)
-with a concentration
-in interdisciplinary research combining Economics, Business, and Data Science, and 
-strong interests and curiosity in applied microeconomics in business (e.g. marketing, strategy,
-information, accounting),
-social network, and learning problems in Econ/CS.
+I am a senior undergraduate at the [Department of Information Management](https://management.ntu.edu.tw/en/IM),
+[National Taiwan University (NTU)](https://www.ntu.edu.tw/english/).
+I concentrate on interdisciplinary research that intergrates Economics, Business, and Data Science.
+I possess a deep interest and curiosity in applied microeconomics in business, including areas such as marketing, strategy,
+information, and accounting.
+I am also intrigued by social network and learning problems in Econ/CS.
 I am ambitious to become a professor and a researcher to contribute to society and the world.
 
 Outside academia, I have been a 
 documentary and sports photographer/photojournalist for over five years, 
 cat lover, tea addict, $\LaTeX$ lover and promoter.
 Moreover,
-I also serve as a mentor and consultant for junior/senior high school students on the family relationship,
+I also serve as a mentor and a consultant for junior/senior high school students on the family relationship,
 study plans, and application strategies for over five years. 
 
 > ***I am looking for an opportunity for pre-doc/research assistant position. 
