@@ -75,14 +75,14 @@ PygmentsStyle = "tango"
     name = "Courses"
     url = "/course/"
     weight = 3
-  [[menu.main]]
-    name = "Articles"
-    url = "/articles/"
-    weight = 4
+#  [[menu.main]]
+#    name = "Articles"
+#    url = "/articles/"
+#    weight = 4
   [[menu.main]]
     name = "Blog"
     url = "/misc"
-    weight = 5
+    weight = 4
 
 [markup.goldmark.renderer]
   unsafe = true  # allow raw HTML in markdown files
