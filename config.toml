@@ -62,7 +62,6 @@ PygmentsStyle = "tango"
   tage = true
   tags_counter = false # Enable counter
 
-
 [permalinks]
   "/" = "/:section/:filename"
 
