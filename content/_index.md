@@ -53,9 +53,11 @@ Sep. 2015 - Jun. 2018.
 
 ##### Working in progress 
 - Strategic Marketing through Network-Based Targeting.
-- Income Gap by Race: Job Referral, Choice and Preference from Racial Social Networks.
 - Suburbanization by Smartphones and Online Networks.
+- Income Gap by Race: Job Referral, Choice and Preference from Racial Social Networks.
+<!---
 - Influencers in E-commerse: Matching and Persuasion to Consumers.
+--->
 
 ##### Experience
 - Research Assistant to Professor [Chih-Sheng Hsieh](https://sites.google.com/site/chihshenghsieh/) at Dept. of Economics, Jun. 2022 - Present.
