@@ -38,7 +38,7 @@ Outside academia, I have been a
 documentary and sports photographer/photojournalist for over five years, 
 cat lover, tea addict, $\LaTeX$ lover and promoter.
 Moreover,
-I also serve as a mentor and a consultant for junior/senior high school students on the family relationship,
+I also serve as a mentor and a consultant for 40+ high school students and families on the family relationship,
 study plans, and application strategies for over five years. 
 
 > ***I am looking for an opportunity for pre-doc/research assistant position. 
