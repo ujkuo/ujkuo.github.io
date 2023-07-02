@@ -8,7 +8,7 @@ title = "[CS] Online Machine Learning"
 This course was taught by Prof. [Yen-Huan Li ](https://sites.google.com/site/yenhuanli/home).
 The course studies the online learning problem and its extensions from several aspects. 
 The topics include Blackwell approachability, PAC-Bayes analysis, probability forecasting with the logarithmic loss, 
-online portfolio selection, and learning with expert advice (from course website).
+online portfolio selection, learning with expert advice, and aggregating algorithms (from course website).
 
 The course's three assignments and the final project all include extensive literature reviews. 
 For [hw0](/pdf/plg/hw0.pdf), 
