@@ -36,6 +36,13 @@ The results are shown below.
 - 10-19: evidence†, effects, health, market, financial, policy, labor, economic, trade, impact
 - 20-22: covid-19, evidence, policy, effects, economic, pandemic, social, health, labor, financial
 
+![](/figure/1970-1979.png)
+![](/figure/1980-1989.png)
+![](/figure/1990-1999.png)
+![](/figure/2000-2009.png)
+![](/figure/2010-2019.png)
+![](/figure/2020-2029.png)
+
 <span class = "chinese">
 ‡ 從 90-99 這個時間段開始，evidence就呈現了霸榜的姿態，直到 20-22 有了更具時效性的 covid-19 才稍稍落後，
 我想這個落後也不會持續太長時間。
