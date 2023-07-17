@@ -33,7 +33,7 @@ I concentrate on interdisciplinary research that intergrates Economics, Business
 I possess a deep interest and curiosity in business research, including areas such as marketing, strategy,
 digital economy, and information.
 I am also intrigued by social network and learning problems in Econ/CS.
-I enjoy doing research and sharing knowledge, and 
+I enjoy exploring the diversity of society and sharing knowledge, and 
 I am ambitious to become a professor and a researcher to contribute to society and the world.
 
 Outside academia, I have been a 
