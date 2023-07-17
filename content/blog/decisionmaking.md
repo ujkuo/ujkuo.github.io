@@ -1,8 +1,8 @@
 +++
-title = "(English and Chinese) Decision Making (Invited Talk to Junior High School Students)"
+title = "(English) Decision-Making: Invited Talk to Junior High School Students"
 +++
 
-#### Decision Making (Invited Talk to Junior High School Students)
+#### Decision-Making: Invited Talk to Junior High School Students
 
 I was invited to give a speech to junior high school students as an honorary alumnus. 
 The topic of the whole speech revolves around my philosophy of life and the process of thinking and decision-making. 
