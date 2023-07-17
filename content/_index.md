@@ -26,19 +26,21 @@ img{
 -->
 
 <!--<div style='text-align: justify; font-size: 16pt;'> --> 
-I am a senior undergraduate at the [Department of Information Management](https://management.ntu.edu.tw/en/IM),
+<!-- I am a senior undergraduate at the [Department of Information Management](https://management.ntu.edu.tw/en/IM),
 [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/).
-I concentrate on interdisciplinary research that intergrates Economics, Business, and Data Science.
-I possess a deep interest and curiosity in applied microeconomics in business, including areas such as marketing, strategy,
-information, and accounting.
+-->
+I concentrate on interdisciplinary research that intergrates Economics, Business, and Computer Science.
+I possess a deep interest and curiosity in business research, including areas such as marketing, strategy,
+digital economy, and information.
 I am also intrigued by social network and learning problems in Econ/CS.
+I enjoy doing research and sharing knowledge, and 
 I am ambitious to become a professor and a researcher to contribute to society and the world.
 
 Outside academia, I have been a 
-documentary and sports photographer/photojournalist for over five years, 
+documentary and sports photographer/photojournalist for over 7 years, 
 cat lover, tea addict, $\LaTeX$ lover and promoter.
 Moreover,
-I also serve as a mentor and a consultant for 40+ high school students and families on the family relationship,
+I have also served as a mentor and a consultant for 40+ high school students and families on the family relationship,
 study plans, and application strategies for over five years. 
 
 > ***I am looking for an opportunity for pre-doc/research assistant position. 
@@ -83,8 +85,8 @@ Sep. 2015 - Jun. 2018.
   the urban-rural gap and the gaps between social stratification and family economy in Taiwan.
   See the [achievement report (in Chinese)](https://drive.google.com/file/d/1Nng5HRotynKWdHyqTVLZWLRga7oa-Fl4/view)
   to understand our vision.
-- President/Vice President/Lecturer of [CKPC](https://www.facebook.com/CKPC.tw), 2016 - 2018.
-- Associate photographer/photojournalist.
+- President/Vice President/Lecturer of [CKPC](https://www.facebook.com/CKPC.tw) (CK Photography Communication Association), 2016 - 2018.
+- Senior photographer/photojournalist.
   - At [CKPC](https://www.facebook.com/CKPC.tw), 2015 - Present. / 
   [Taipei 2017 Universiade](https://en.wikipedia.org/wiki/2017_Summer_Universiade), [Taipei Marathon](https://www.taipeicitymarathon.com),
   multiple national sports competitions, local and global news, in-depth reports, social movement records, news columns, editorials; 
