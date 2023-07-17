@@ -2,10 +2,30 @@
 title = "(Chinese) Introduction to Elective Courses of IM at NTU Azalea Festival 2023"
 +++
 
+<style>
+/* Define the font for Chinese text */
+p {
+    font-family: "Noto Serif Traditional Chinese"; 
+    font-size: 20px;
+    line-height: 1.5;
+}
+h1, h2, h3, h4, h5, h6, code {
+    font-family: "Noto Serif Traditional Chinese"; 
+  }
+ul, ol {
+    font-family: "Noto Serif Traditional Chinese"; 
+  }
+li {
+    font-family: "Noto Serif Traditional Chinese"; 
+  }
+</style>
+
 ## 台大資管杜鵑花節選修課程說明
 
 #### 計算理論
+
 計算理論是計算機科學領域的數學與邏輯理論基礎，主要探討計算機能力極限的問題，哪些是電腦有可以解決的問題，哪些是電腦無法解決的問題。舉例來說，世界上各種語言的表述能力各有不同，像是中文句子「喜歡上一個人」就可能有多種解釋方式，造成語意模稜兩可與不確定性。那在計算機的世界裡，電腦到底是閱讀怎麼樣的語言呢？這些電腦閱讀的語言又有什麼特色與局限性呢？在這門課中，我們會探討並學習這些計算機科學的基礎問題，透過嚴謹的邏輯與數學語言來告訴電腦他該做什麼。
+
 #### 作業研究
 作業研究是系上滿熱門的選修課程。這門課以數學與演算法為基礎，介紹如何分配有限的資源以制定各種商業決策。如生產規劃與排程、工作人員的班表制定、貨物運輸路線的安排、服務價格的設定等等，這些都是屬於作業研究可以討論的範疇。這門課會用到程式設計、微積分、線性代數、機率與統計以及演算法的相關知識，可以算是一門統整大一大二所學知識的選修課程。
 #### 行銷管理

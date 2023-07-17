@@ -2,6 +2,24 @@
 title = "(Chinese) Why Do Economists Use Prime Instead of T to Represent the Matrix Transpose"
 +++
 
+<style>
+/* Define the font for Chinese text */
+p {
+    font-family: "Noto Serif Traditional Chinese"; 
+    font-size: 20px;
+    line-height: 1.5;
+}
+h1, h2, h3, h4, h5, h6, code {
+    font-family: "Noto Serif Traditional Chinese"; 
+  }
+ul, ol {
+    font-family: "Noto Serif Traditional Chinese"; 
+  }
+li {
+    font-family: "Noto Serif Traditional Chinese"; 
+  }
+</style>
+
 剛開始接觸計量的時候很不習慣用 prime 來表示矩陣的 transpose，
 剛剛寫計量作業寫到一半突然很想知道為什麼經濟學家會沿用這個 notation，查了一下發現原來 prime 的使用比 transpose 早：
 
