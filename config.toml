@@ -20,6 +20,7 @@ PygmentsStyle = "tango"
     ["PT Serif", "400, 700"],
     ["Corben", "400"],
     ["Averia Serif Libre", "400"],
+    ["Noto Serif Traditional Chinese", "400, 600"]
   ]
   body_font = "Corben"
   heading_font = "Corben"
