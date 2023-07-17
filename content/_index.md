@@ -87,6 +87,7 @@ Sep. 2015 - Jun. 2018.
   to understand our vision.
 - President/Vice President/Lecturer of [CKPC](https://www.facebook.com/CKPC.tw) (CK Photography Communication Association), 2016 - 2018.
 - Senior photographer/photojournalist.
+  - Equipments: Nikon D6, 24-70mm f/2.8, 70-200mm f/2.8
   - At [CKPC](https://www.facebook.com/CKPC.tw), 2015 - Present. / 
   [Taipei 2017 Universiade](https://en.wikipedia.org/wiki/2017_Summer_Universiade), [Taipei Marathon](https://www.taipeicitymarathon.com),
   multiple national sports competitions, local and global news, in-depth reports, social movement records, news columns, editorials; 
