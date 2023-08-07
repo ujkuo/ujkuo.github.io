@@ -31,7 +31,7 @@ img{
 -->
 I concentrate on interdisciplinary research that intergrates Economics, Business, and Computer Science.
 I possess a deep interest and curiosity in business research, including areas such as marketing, strategy,
-digital economy, and information.
+digital economy, information, etc.
 I am also intrigued by social network and learning problems in Econ/CS.
 I enjoy exploring the diversity of society and sharing knowledge, and 
 I am ambitious to become a professor and a researcher to contribute to society and the world.
@@ -49,7 +49,7 @@ Please let me know if there is any opportunity. I am keen to devote myself to ac
 
 ##### Education
 - B.B.A. in [Information Management](https://management.ntu.edu.tw/en/IM), 
-[National Taiwan University (NTU)](https://www.ntu.edu.tw/english/), Sep. 2018 - Jun. 2023 (gap two semesters for personal issues).
+[National Taiwan University (NTU)](https://www.ntu.edu.tw/english/), Sep. 2018 - Jun. 2023 (gap two semesters for health issues).
 - Alumni 70th, [Taipei Municipal Chien-Kuo High School (CKHS)](https://www2.ck.tp.edu.tw/en),
 Sep. 2015 - Jun. 2018.
 
@@ -62,9 +62,12 @@ Sep. 2015 - Jun. 2018.
 --->
 
 ##### Experience
-- Research Assistant to Professor [Chih-Sheng Hsieh](https://sites.google.com/site/chihshenghsieh/) at Dept. of Economics, Jun. 2022 - Present.
+- Research Assistant to Professor [Chih-Sheng Hsieh](https://sites.google.com/site/chihshenghsieh/) at Behavioral and Data Science Research Center (BDSRC), Jun. 2022 - Present.
+  - Topic: spillover effects in the MeToo movement, networks through smartphones.
 - Research Assistant in [CCL Lab](https://ccl-lab.github.io/research/) at Dept. of Economics, Aug. 2023 - Present.
+  - Topic: e-commerse keyword bidding and consumer behaviors.
 - Research Assistant to Professor [Chih-Ping Wei](https://management.ntu.edu.tw/en/IM/faculty/teacher/sn/15) at Dept. of Information Management,<br /> Jun. 2022 - Feb. 2023.
+  - Topic: sentiment analysis application in business research.
 - Teaching Assistant to Professor [Ling-Chieh Kung](http://www.im.ntu.edu.tw/~lckung/) at Dept. of Information Management,<br /> Mar. 2022 - Jun. 2022.
   - *Operations Research*, senior elective, with 100+ students enrolled.
   - Verified three assignments, two case studies, and the final exam and wrote six corresponding solutions with the rigorous mathematical statement and one additional
