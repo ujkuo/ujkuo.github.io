@@ -56,13 +56,14 @@ Sep. 2015 - Jun. 2018.
 ##### Working in progress 
 - Strategic Marketing through Network-Based Targeting.
 - Suburbanization by Smartphones and Online Networks.
-- Income Gap by Race: Job Referral, Choice and Preference from Racial Social Networks.
 <!---
+- Income Gap by Race: Job Referral, Choice and Preference from Racial Social Networks.
 - Influencers in E-commerse: Matching and Persuasion to Consumers.
 --->
 
 ##### Experience
 - Research Assistant to Professor [Chih-Sheng Hsieh](https://sites.google.com/site/chihshenghsieh/) at Dept. of Economics, Jun. 2022 - Present.
+- Research Assistant in [CCL Lab](https://ccl-lab.github.io/research/) at Dept. of Economics, Aug. 2023 - Present.
 - Research Assistant to Professor [Chih-Ping Wei](https://management.ntu.edu.tw/en/IM/faculty/teacher/sn/15) at Dept. of Information Management,<br /> Jun. 2022 - Feb. 2023.
 - Teaching Assistant to Professor [Ling-Chieh Kung](http://www.im.ntu.edu.tw/~lckung/) at Dept. of Information Management,<br /> Mar. 2022 - Jun. 2022.
   - *Operations Research*, senior elective, with 100+ students enrolled.
