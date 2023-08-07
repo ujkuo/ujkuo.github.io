@@ -49,7 +49,7 @@ Please let me know if there is any opportunity. I am keen to devote myself to ac
 
 ##### Education
 - B.B.A. in [Information Management](https://management.ntu.edu.tw/en/IM), 
-[National Taiwan University (NTU)](https://www.ntu.edu.tw/english/), Sep. 2018 - Jun. 2023 (gap two semesters for health issues).
+[National Taiwan University (NTU)](https://www.ntu.edu.tw/english/), Sep. 2018 - Jun. 2023 (gap one year for health issues).
 - Alumni 70th, [Taipei Municipal Chien-Kuo High School (CKHS)](https://www2.ck.tp.edu.tw/en),
 Sep. 2015 - Jun. 2018.
 
