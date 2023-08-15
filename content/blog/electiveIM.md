@@ -1,5 +1,5 @@
 +++
-title = "(Chinese) Introduction to Elective Courses of IM at NTU Azalea Festival 2023"
+title = "[C] Introduction to Elective Courses of IM at NTU Azalea Festival 2023"
 +++
 
 <style>

@@ -1,5 +1,5 @@
 +++
-title = "(Chinese) Why Do Economists Use Prime Instead of T to Represent the Matrix Transpose"
+title = "[C] Why Do Economists Use Prime Instead of T to Represent the Matrix Transpose"
 +++
 
 <style>

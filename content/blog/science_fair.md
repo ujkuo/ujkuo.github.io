@@ -1,5 +1,5 @@
 +++
-title = "(Chinese) Structural Problems in High School Science Fair -- An Interview and a Survey with Advising Teachers"
+title = "[C] Structural Problems in High School Science Fair -- An Interview and a Survey with Advising Teachers"
 +++
 <style>
 /* Define the font for Chinese text */

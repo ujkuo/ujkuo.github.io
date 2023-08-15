@@ -1,5 +1,5 @@
 +++
-title = "(Chinese) Tips for Shooting Swimming Competitions"
+title = "[C] Tips for Shooting Swimming Competitions"
 +++
 
 <style>

@@ -1,5 +1,5 @@
 +++
-title = "(Chinese) An Interview with a Rising Star in the Swimming Competition"
+title = "[C] An Interview with a Rising Star in the Swimming Competition"
 +++
 
 <style>

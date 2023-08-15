@@ -1,5 +1,5 @@
 +++
-title = "(English + Chinese) A Write-up for Influencer Economy"
+title = "[E,C] A Write-up for Influencer Economy"
 math = true
 +++
 <style>

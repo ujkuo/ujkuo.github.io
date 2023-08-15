@@ -1,5 +1,5 @@
 +++
-title = "(English) Decision-Making: Invited Talk to Junior High School Students"
+title = "[E] Decision-Making: Invited Talk to Junior High School Students"
 +++
 
 #### Decision-Making: Invited Talk to Junior High School Students

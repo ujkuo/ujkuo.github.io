@@ -1,5 +1,5 @@
 +++
-title = "(English) Introduction to Pre-doctoral Research Fellow in Economics and Business"
+title = "[E] Introduction to Pre-doctoral Research Fellow in Economics and Business"
 +++
 
 ### Introduction to Pre-doctoral Research Fellow in Economics and Business

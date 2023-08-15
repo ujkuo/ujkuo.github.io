@@ -1,5 +1,5 @@
 +++
-title = "(English + Chinese) Trend words in the title of NBER Working Papers"
+title = "[E,C] Trend words in the title of NBER Working Papers"
 +++
 
 <style>
