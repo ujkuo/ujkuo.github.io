@@ -50,7 +50,7 @@ Please let me know if there is any opportunity. I am keen to devote myself to ac
 ##### Education
 - B.B.A. in [Information Management](https://management.ntu.edu.tw/en/IM), 
 [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/), Sep. 2018 - Jun. 2023 (gap one year for health issues).
-- Alumni 70th, [Taipei Municipal Chien-Kuo High School (CKHS)](https://www2.ck.tp.edu.tw/en),
+- Alumni 70th, [Taipei Municipal Chien-Kuo High School (CKHS)](https://www.ck.tp.edu.tw/nss/p/ckweben),
 Sep. 2015 - Jun. 2018.
 
 ##### Working in progress 
@@ -100,3 +100,7 @@ Sep. 2015 - Jun. 2018.
   [Taipei 2017 Universiade](https://en.wikipedia.org/wiki/2017_Summer_Universiade), [Taipei Marathon](https://www.taipeicitymarathon.com),
   multiple national sports competitions.
   - At [THE REPORTER](https://www.twreporter.org), 2017 - 2018. / Photography projects assistance.
+
+##### Other
+- [Goodreads](https://www.goodreads.com/user/show/168001011-jesse)
+- [Enshrinement](/enshrinement/)
