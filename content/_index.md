@@ -39,7 +39,6 @@ I am ambitious to become a professor and a researcher to contribute to society a
 Outside academia, I have been a 
 documentary and sports photographer/photojournalist for over 7 years, 
 cat lover, tea addict, $\LaTeX$ lover and promoter.
-Moreover,
 I have also served as a mentor and a consultant for 40+ high school students and families on the family relationship,
 study plans, and application strategies for over five years. 
 
