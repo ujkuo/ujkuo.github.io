@@ -29,6 +29,8 @@ img{
 <!-- I am a senior undergraduate at the [Department of Information Management](https://management.ntu.edu.tw/en/IM),
 [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/).
 -->
+> ***I will join ChicagoBooth as a Research Professional this summer!***
+
 I enjoy exploring the diversity of society and sharing knowledge.
 My research interests concentrate on intersection between Economics, Business, and Computer Science.
 I possess a deep interest and curiosity in various business research fields, including branding strategies, advertisement, digital economy, accounting, etc.
