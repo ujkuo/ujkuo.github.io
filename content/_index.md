@@ -29,22 +29,16 @@ img{
 <!-- I am a senior undergraduate at the [Department of Information Management](https://management.ntu.edu.tw/en/IM),
 [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/).
 -->
-I concentrate on interdisciplinary research that intergrates Economics, Business, and Computer Science.
-I possess a deep interest and curiosity in business research, including areas such as marketing, strategy,
-digital economy, information, etc.
-I am also intrigued by social network and learning problems in Econ/CS.
-I enjoy exploring the diversity of society and sharing knowledge, and 
-I am ambitious to become a professor and a researcher to contribute to society and the world.
+I enjoy exploring the diversity of society and sharing knowledge.
+My research interests concentrate on intersection between Economics, Business, and Computer Science.
+I possess a deep interest and curiosity in various business research fields, including marketing, strategy, digital economy, information, accounting, etc.
+Besides, I am also intrigued by social network and learning problems in Econ/CS.
 
 Outside academia, I have been a 
 documentary and sports photographer/photojournalist for over 7 years, 
 cat lover, tea addict, $\LaTeX$ lover and promoter.
 I have also served as a mentor and a consultant for 40+ high school students and families on the family relationship,
 study plans, and application strategies for over five years. 
-
-> ***I am looking for an opportunity for pre-doc/research assistant position. 
-Please let me know if there is any opportunity. I am keen to devote myself to academic research.*** 
-
 
 ##### Education
 - B.B.A. in [Information Management](https://management.ntu.edu.tw/en/IM), 
@@ -102,4 +96,3 @@ Sep. 2015 - Jun. 2018.
 
 ##### Other
 - [Goodreads](https://www.goodreads.com/user/show/168001011-jesse)
-- [Enshrinement](/enshrinement/)
