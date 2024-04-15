@@ -31,7 +31,7 @@ img{
 -->
 I enjoy exploring the diversity of society and sharing knowledge.
 My research interests concentrate on intersection between Economics, Business, and Computer Science.
-I possess a deep interest and curiosity in various business research fields, including marketing, strategy, digital economy, information, accounting, etc.
+I possess a deep interest and curiosity in various business research fields, including branding strategies, advertisement, digital economy, accounting, etc.
 Besides, I am also intrigued by social network and learning problems in Econ/CS.
 
 Outside academia, I have been a 
@@ -41,6 +41,7 @@ I have also served as a mentor and a consultant for 40+ high school students and
 study plans, and application strategies for over five years. 
 
 ##### Education
+- Research Professional at [Chicago Booth](https://www.chicagobooth.edu), incoming.
 - B.B.A. in [Information Management](https://management.ntu.edu.tw/en/IM), 
 [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/), Sep. 2018 - Jun. 2023 (gap one year for health issues).
 - Alumni 70th, [Taipei Municipal Chien-Kuo High School (CKHS)](https://www.ck.tp.edu.tw/nss/p/ckweben),
