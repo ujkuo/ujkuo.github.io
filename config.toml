@@ -69,7 +69,7 @@ PygmentsStyle = "tango"
 [menu]
   [[menu.main]]
     name = "CV"
-    url = "/cv/cv.pdf"
+    url = "/cv/CV.pdf"
     weight = 2
   [[menu.main]]
     name = "Courses"
