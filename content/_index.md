@@ -45,7 +45,7 @@ study plans, and application strategies for over five years.
 ##### Education
 - Research Professional at [Chicago Booth](https://www.chicagobooth.edu), incoming.
 - B.B.A. in [Information Management](https://management.ntu.edu.tw/en/IM), 
-[National Taiwan University (NTU)](https://www.ntu.edu.tw/english/), Sep. 2018 - Jun. 2023 (gap one year for health issues).
+[National Taiwan University (NTU)](https://www.ntu.edu.tw/english/), Sep. 2018 - Jun. 2023 (gap one year during the program for health issues).
 - Alumni 70th, [Taipei Municipal Chien-Kuo High School (CKHS)](https://www.ck.tp.edu.tw/nss/p/ckweben),
 Sep. 2015 - Jun. 2018.
 
