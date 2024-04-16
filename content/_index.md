@@ -42,8 +42,10 @@ cat lover, tea addict, $\LaTeX$ lover and promoter.
 I have also served as a mentor and a consultant for 40+ high school students and families on the family relationship,
 study plans, and application strategies for over five years. 
 
-##### Education
+##### Position 
 - Research Professional at [Chicago Booth](https://www.chicagobooth.edu), incoming.
+
+##### Education
 - B.B.A. in [Information Management](https://management.ntu.edu.tw/en/IM), 
 [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/), Sep. 2018 - Jun. 2023 (gap one year during the program for health issues).
 - Alumni 70th, [Taipei Municipal Chien-Kuo High School (CKHS)](https://www.ck.tp.edu.tw/nss/p/ckweben),
