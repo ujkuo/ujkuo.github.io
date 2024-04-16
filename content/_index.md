@@ -62,7 +62,7 @@ Sep. 2015 - Jun. 2018.
 ##### Experience
 - Research Assistant to Professor [Chih-Sheng Hsieh](https://sites.google.com/site/chihshenghsieh/) at Behavioral and Data Science Research Center (BDSRC), Jun. 2022 - Present.
   - Topic: spillover effects in the MeToo movement, networks through smartphones.
-- Research Assistant in [CCL Lab](https://ccl-lab.github.io/research/) at Dept. of Economics, Aug. 2023 - Present.
+- Research Assistant in [CCL Lab](https://ccl-lab.github.io/research/) at Dept. of Economics, Aug. 2023 - Jan. 2024.
   - Topic: e-commerse keyword bidding and consumer behaviors.
 - Research Assistant to Professor [Chih-Ping Wei](https://management.ntu.edu.tw/en/IM/faculty/teacher/sn/15) at Dept. of Information Management,<br /> Jun. 2022 - Feb. 2023.
   - Topic: sentiment analysis application in business research.
