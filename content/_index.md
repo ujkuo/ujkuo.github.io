@@ -31,16 +31,29 @@ img{
 -->
 > ***I will join ChicagoBooth as a Research Professional this summer!***
 
-I enjoy exploring the diversity of society and sharing knowledge.
-My research interests concentrate on intersection between Economics, Business, and Computer Science.
-I possess a deep interest and curiosity in various business research fields, including branding strategies, advertisement, digital economy, accounting, etc.
-Besides, I am also intrigued by social network and learning problems in Econ/CS.
+I enjoy delving into business topics, especially ads - 
+how is the role of advertising in marketing and financial behaviors, 
+how firms should strategize advertising, 
+why and how to make an advertisement go viral and circulating, 
+how to evaluate an ad before its launch, and so on. 
+I leverage methods from, 
+thanks to my diverse background and divergent learning path, 
+economics, statistics, and computer science to analyze these issues.
+Luxury brands, the fashion industry, and the membership system are also parts of my daily musing. 
+As a fan of brands, fashion, and hotels, 
+it's fascinating for me to learn about the company's strategy from the perspective of a scholar (or an econometrician, lol) 
+and a practitioner.
+It would be more than great to be able to provide brands with valuable strategic advice one day.
+I am also interested in understanding if firms act in the way the scholars explain and explain.
 
-Outside academia, I have been a 
-documentary and sports photographer/photojournalist for over 7 years, 
-cat lover, tea addict, $\LaTeX$ lover and promoter.
-I have also served as a mentor and a consultant for 40+ high school students and families on the family relationship,
-study plans, and application strategies for over five years. 
+Besides business research, I am also attracted to Eastern Philosophy, literature, and movies. 
+I was double-majored (despite being incomplete) in Chinese Literature in my undergraduate 
+and focused on Taoist Philosophy and modern Taiwanese literature. 
+Taoist Philosophy carves and embodies my life vision, and Taiwanese literature and movies consolidate my national identity.
+
+Outside academia, I take photos and teach high school students how to study and prepare school applications.
+I have been a documentary and sports photographer/photojournalist for several media outlets for 7+ years 
+and have also served as a tutor and a mentor for 40+ high school students and families for 5+ years. 
 
 ##### Position 
 - Research Professional at [Chicago Booth](https://www.chicagobooth.edu), incoming.
@@ -101,5 +114,3 @@ Sep. 2015 - Jun. 2018.
   multiple national sports competitions.
   - At [THE REPORTER](https://www.twreporter.org), 2017 - 2018. / Photography projects assistance.
 
-##### Other
-- [Goodreads](https://www.goodreads.com/user/show/168001011-jesse)
