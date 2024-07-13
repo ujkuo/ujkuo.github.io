@@ -29,7 +29,8 @@ img{
 <!-- I am a senior undergraduate at the [Department of Information Management](https://management.ntu.edu.tw/en/IM),
 [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/).
 -->
-> ***I will join ChicagoBooth as a Research Professional this summer!***
+
+> I am a research professional at Chicago Booth.
 
 I enjoy delving into business topics, especially ads - 
 how is the role of advertising in marketing and financial behaviors, 
@@ -56,7 +57,7 @@ I have been a documentary and sports photographer/photojournalist for several me
 and have also served as a tutor and a mentor for 40+ high school students and families for 5+ years. 
 
 ##### Position 
-- Research Professional at [Chicago Booth](https://www.chicagobooth.edu), incoming.
+- Research Professional at [Chicago Booth](https://www.chicagobooth.edu), Jul. 2024 - Present.
 
 ##### Education
 - B.B.A. in [Information Management](https://management.ntu.edu.tw/en/IM), 
