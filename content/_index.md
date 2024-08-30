@@ -33,7 +33,7 @@ img{
 > I am a research professional at Chicago Booth.
 
 I enjoy delving into business topics, especially how information plays a role in different schemes.
-Take advertisement as an example:
+Take advertisement as an example;
 how is the role of advertising in marketing and financial behaviors, 
 how should firms strategize advertising, 
 why and how to make an advertisement go viral and circulating, 
