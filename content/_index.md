@@ -82,7 +82,7 @@ Sep. 2015 - Jun. 2018.
 --->
 
 ##### Experience
-- Research Assistant to Professor [Chih-Sheng Hsieh](https://sites.google.com/site/chihshenghsieh/) at Behavioral and Data Science Research Center (BDSRC), Jun. 2022 - Present.
+- Research Assistant to Professor [Chih-Sheng Hsieh](https://sites.google.com/site/chihshenghsieh/) at Behavioral and Data Science Research Center (BDSRC), Jun. 2022 - Jun. 2024.
   - Topic: spillover effects in the MeToo movement, networks through smartphones.
 - Research Assistant in [CCL Lab](https://ccl-lab.github.io/research/) at Dept. of Economics, Aug. 2023 - Jan. 2024.
   - Topic: e-commerse keyword bidding and consumer behaviors.
