@@ -32,20 +32,21 @@ img{
 
 > I am a research professional at Chicago Booth.
 
-I enjoy delving into business topics, especially how information plays a role in different schemes.
-Take advertisement as an example;
+My current works cover banking, regulation, and the impact of mobility on financial behaviors.
+However, I enjoy delving into how information plays a role in different schemes.
+Take advertisement as an example:
 how is the role of advertising in marketing and financial behaviors, 
 how should firms strategize advertising, 
 why and how to make an advertisement go viral and circulating, 
-how to evaluate an ad before its launch, and so on. 
-Another example is disclosure. 
+how to evaluate an ad before its launch?
+Another example is information disclosure in the financial sector.
 How does distinct information disclosure influence companies' economic behaviors and consequences,
-what does companies' strategy to disclose information to draw more attention and investments,
+how do companies strategize information disclosure to draw more attention and investments,
 and do peer effects exist in information disclosure?
 I always gravitate towards these topics.
 I leverage methods from, 
 thanks to my diverse background and divergent learning path, 
-economics, statistics, and computer science to analyze these issues.
+economics, statistics, and computer science to analyze these questions
 
 Luxury brands, the fashion industry, and the membership system are also parts of my daily musing. 
 As a fan of brands, fashion, and hotels, 
