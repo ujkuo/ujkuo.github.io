@@ -46,7 +46,7 @@ and do peer effects exist in information disclosure?
 I always gravitate towards these topics.
 I leverage methods from, 
 thanks to my diverse background and divergent learning path, 
-economics, statistics, and computer science to analyze these questions
+economics, statistics, and computer science to analyze these questions.
 
 Luxury brands, the fashion industry, and the membership system are also parts of my daily musing. 
 As a fan of brands, fashion, and hotels, 
