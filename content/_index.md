@@ -61,7 +61,7 @@ and focused on Taoist Philosophy and modern Taiwanese literature.
 Taoist Philosophy carves and embodies my life vision, and Taiwanese literature and movies consolidate my national identity.
 
 Outside academia, I take photos and teach high school students how to study and prepare school applications.
-I have been a documentary and sports photographer/photojournalist for several media outlets for 7+ years 
+I have 8+ year of expertise in photography. I am a documentary and sports photographer/photojournalist for several media outlets for 8+ years 
 and have also served as a tutor and a mentor for 40+ high school students and families for 5+ years. 
 
 ##### Position 
