@@ -32,21 +32,19 @@ img{
 
 > I am a research professional at Chicago Booth.
 
-My current works cover banking, regulation, and the impact of mobility on financial behaviors.
-However, I enjoy delving into how information plays a role in different schemes.
-Take advertisement as an example:
-how is the role of advertising in marketing and financial behaviors, 
-how should firms strategize advertising, 
-why and how to make an advertisement go viral and circulating, 
-how to evaluate an ad before its launch?
-Another example is information disclosure in the financial sector.
-How does distinct information disclosure influence companies' economic behaviors and consequences,
-how do companies strategize information disclosure to draw more attention and investments,
-and do peer effects exist in information disclosure?
-I always gravitate towards these topics.
-I leverage methods from, 
-thanks to my diverse background and divergent learning path, 
-economics, statistics, and computer science to analyze these questions.
+My current research focuses on banking, regulation, and the influence of mobility on financial behaviors.
+I work extensively with consumer credit data from the [TransUnion dataset](https://www.chicagobooth.edu/research/kilts/research-data/transunion) and employ Large Language Models (LLMs).
+I am also keenly interested in understanding the role of information across various contexts.
+Take information disclosure in the financial sector as an example:
+How do different modes of information disclosure shape corporate economic behaviors and outcomes,
+how do companies strategize information disclosure to attract attention and investment,
+and do peer effects and spillover effects exist in these disclosure practices?
+Similarly, in advertising,
+I am interested in exploring the role of marketing and financial behaviors, the effective advertising strategies, the factors that make advertisements go viral, and the optimal methods for advertisement pre-launch evaluation.
+Drawing on my diverse background and interdisciplinary training, I integrate tools from economics, statistics, and computer science to address these questions.
+
+<!--
+Luxury brands, the fashion industry, and membership-based business models also frequently capture my attention. As a devotee of brands, fashion, and hospitality—particularly hotels—I’m fascinated by the opportunity to study company strategies both from the perspective of a scholar (or econometrician) and a practitioner. One day, I hope to provide valuable, data-driven strategic insights to these brands. I am also interested in understanding whether firms truly behave as scholars predict.
 
 Luxury brands, the fashion industry, and the membership system are also parts of my daily musing. 
 As a fan of brands, fashion, and hotels, 
@@ -54,19 +52,18 @@ it's fascinating for me to learn about the company's strategy from the perspecti
 and a practitioner.
 It would be more than great to be able to provide brands with valuable strategic advice one day.
 I am also interested in understanding if firms act in the way the scholars explain and explain.
+--> 
 
-Besides business research, I am also attracted to Eastern Philosophy, literature, and movies. 
-I was double-majored (despite being incomplete) in Chinese Literature in my undergraduate 
-and focused on Taoist Philosophy and modern Taiwanese literature. 
+Besides business research, I am also drawn to Eastern Philosophy, literature, and movies. 
+During my undergraduate, I pursued a double major in Chinese Literature (despite incomplete) with a focus on Taoist philosophy and modern Taiwanese literature.
 Taoist Philosophy carves and embodies my life vision, and Taiwanese literature and movies consolidate my national identity.
 
-Outside academia, I take photos and teach high school students how to study and prepare school applications.
-With 8+ year of expertise in photography, 
-I am a documentary and sports photographer/photojournalist for several media outlets.
+Outside of academia, I engage in photography and mentor high school students in academic preparation and school applications.
+With 8+ year of expertise in photography, I have been a documentary and sports photographer/photojournalist for several media outlets.
 I have also served as a tutor and a mentor for 40+ high school students and families for 5+ years. 
 
 ##### Position 
-- Research Professional at [Chicago Booth](https://www.chicagobooth.edu), Jul. 2024 - Present.
+- Research Professional to Professor [Rimmy E. Tomy](https://sites.google.com/chicagobooth.edu/rimmyetomy/) at [Chicago Booth](https://www.chicagobooth.edu), Jul. 2024 - Present.
 
 ##### Education
 - B.B.A. in [Information Management](https://management.ntu.edu.tw/en/IM), 
