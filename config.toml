@@ -11,7 +11,7 @@ PygmentsStyle = "tango"
 [params]
   author = "Yu-Chieh Kuo"
   description = "A simple personal website made by Hugo."
-  favicon = "favicon.ico"  # path to a .ico to use as favicon
+  favicon = "images/favicon.ico"  # path to a .ico to use as favicon
   logo = ""  # url or path to a logo to put in the header
   include_toc = true
 #google_fonts=""
