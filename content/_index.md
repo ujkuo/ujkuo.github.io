@@ -32,6 +32,9 @@ img{
 
 > I am a research professional at Chicago Booth.
 
+My current research focuses on information disclosure and banking. My primary research interest lies in understanding the role of information across various contexts. I investigate how different information disclosure shape corporate economic behaviors and outcomes, how companies strategize information disclosure to attract attention and investment using different mediums, and whether peer and spillover effects exist in the disclosure practices.
+
+<!--
 My current research focuses on banking, regulation, and the influence of mobility on financial behaviors.
 I work extensively with consumer credit data from the [TransUnion dataset](https://www.chicagobooth.edu/research/kilts/research-data/transunion) and employ Large Language Models (LLMs).
 I am also keenly interested in understanding the role of information across various contexts.
@@ -42,8 +45,6 @@ and do peer effects and spillover effects exist in these disclosure practices?
 Similarly, in advertising,
 I am interested in exploring the role of marketing and financial behaviors, the effective advertising strategies, the factors that make advertisements go viral, and the optimal methods for advertisement pre-launch evaluation.
 Drawing on my diverse background and interdisciplinary training, I integrate tools from economics, statistics, and computer science to address these questions.
-
-<!--
 Luxury brands, the fashion industry, and membership-based business models also frequently capture my attention. As a devotee of brands, fashion, and hospitality—particularly hotels—I’m fascinated by the opportunity to study company strategies both from the perspective of a scholar (or econometrician) and a practitioner. One day, I hope to provide valuable, data-driven strategic insights to these brands. I am also interested in understanding whether firms truly behave as scholars predict.
 
 Luxury brands, the fashion industry, and the membership system are also parts of my daily musing. 
@@ -79,7 +80,7 @@ Sep. 2015 - Jun. 2018.
 - Influencers in E-commerse: Matching and Persuasion to Consumers.
 --->
 
-##### Experience
+##### Previous Experience
 - Research Assistant to Professor [Chih-Sheng Hsieh](https://sites.google.com/site/chihshenghsieh/) at Behavioral and Data Science Research Center (BDSRC), Jun. 2022 - Jun. 2024.
   - Topic: spillover effects in the MeToo movement, networks through smartphones.
 - Research Assistant in [CCL Lab](https://ccl-lab.github.io/research/) at Dept. of Economics, Aug. 2023 - Jan. 2024.
