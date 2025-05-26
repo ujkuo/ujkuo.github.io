@@ -44,7 +44,7 @@ li {
 </span>
 $$u = y * (1 - \theta / I) - p$$
 
-<br>Yesterday, I read NBER's wp on net red economics (Lin William Cong and Siguang Li: [A Model of Influencer Economy](https://www.nber.org/papers/w31243), NBER wp (2023)). 
+<br>Yesterday, I read NBER's wp on influencer economics (Lin William Cong and Siguang Li: [A Model of Influencer Economy](https://www.nber.org/papers/w31243), NBER wp (2023)). 
 This is a structural model marketing paper, mainly through The game model captures the interaction between firm, 
 influencer (may be referred to as internet celebrity or KOL below) and consumer. The model setting of this article can be regarded 
 as an extension of the Hotelling model. At this time, both the Internet celebrity and the consumer fall on the same unit circle 
