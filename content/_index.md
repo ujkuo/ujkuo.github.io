@@ -59,9 +59,7 @@ Besides business research, I am also drawn to Eastern Philosophy, literature, an
 During my undergraduate, I pursued a double major in Chinese Literature (despite incomplete) with a focus on Taoist philosophy and modern Taiwanese literature.
 Taoist Philosophy carves and embodies my life vision, and Taiwanese literature and movies consolidate my national identity.
 
-Outside of academia, I engage in photography and mentor high school students in academic preparation and school applications.
-With 8+ year of expertise in photography, I have been a documentary and sports photographer/photojournalist for several media outlets.
-I have also served as a tutor and a mentor for 40+ high school students and families for 5+ years. 
+Outside of academia, I engage in photography and mentor high school students in academic preparation and school applications. With 8+ years of experience in photography, I have worked as a documentary and sports photographer/photojournalist for several media outlets. I have also served as a tutor and mentor for more than 40 high school students and families over the past 5+ years. I am also a serious foodie and on my way to becoming a gourmet.
 
 ##### Position 
 - Research Professional to Professor [Rimmy E. Tomy](https://sites.google.com/chicagobooth.edu/rimmyetomy/) at [Chicago Booth](https://www.chicagobooth.edu), Jul. 2024 - Present.
