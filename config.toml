@@ -26,7 +26,7 @@ PygmentsStyle = "tango"
   heading_font = "Corben"
   [params.footer]
     fontFamily = "Corben"
-    text = "Copyright Jesse Yu-Chieh Kuo 2021 - 2024 | Colophon"
+    text = "Copyright Jesse Yu-Chieh Kuo 2021 - 2025 | Colophon"
     url = "/colophon/"
     height = "50px"
     weight = "50px"
