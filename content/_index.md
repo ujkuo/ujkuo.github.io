@@ -64,7 +64,7 @@ Outside of academia, I engage in photography and mentor high school students in 
 
 ##### Education
 - B.B.A. in [Information Management](https://management.ntu.edu.tw/en/IM), 
-[National Taiwan University (NTU)](https://www.ntu.edu.tw/english/), Sep. 2018 - Jun. 2023 (gap one year during the program for health issues).
+[National Taiwan University (NTU)](https://www.ntu.edu.tw/english/), Sep. 2018 - Jun. 2023 (with a one-year gap during the program due to health issues).
 - Alumni 70th, [Taipei Municipal Chien-Kuo High School (CKHS)](https://www.ck.tp.edu.tw/nss/p/ckweben),
 Sep. 2015 - Jun. 2018.
 
