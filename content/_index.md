@@ -32,7 +32,7 @@ img{
 
 > I am a research professional at Chicago Booth.
 
-My current research work focuses on disclosure. My primary research interest lies in understanding the role of information across various contexts, and how private firms choose their disclosure and use accounting information. I am interested in how different information disclosure shape corporate economic behaviors and outcomes, how companies strategize information disclosure to attract attention and investment using different intermediaries, and whether peer and spillover effects exist in disclosures.
+My primary research interests center on understanding the role of information across various contexts and how private firms choose their disclosures and use accounting information. I am interested in how different types of information disclosure shape corporate economic behaviors and outcomes, how companies strategize information disclosure to attract attention and investment through different intermediaries, and how peer effects spill over into disclosure choices.
 
 <!--
 My current research focuses on banking, regulation, and the influence of mobility on financial behaviors.
