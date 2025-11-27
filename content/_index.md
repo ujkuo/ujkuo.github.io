@@ -55,9 +55,7 @@ It would be more than great to be able to provide brands with valuable strategic
 I am also interested in understanding if firms act in the way the scholars explain and explain.
 --> 
 
-Besides business research, I am also drawn to Eastern Philosophy, literature, and movies. 
-During my undergraduate, I pursued a double major in Chinese Literature (despite incomplete) with a focus on Taoist philosophy and modern Taiwanese literature.
-Taoist Philosophy carves and embodies my life vision, and Taiwanese literature and movies consolidate my national identity.
+Besides business research, I am also drawn to Eastern philosophy, literature, and film. During my undergraduate studies, I pursued a double major in Chinese Literature (though not completed) with a focus on Taoist philosophy and modern Taiwanese literature. Taoist Philosophy shapes and grounds my life vision, and Taiwanese literature and movies strengthen my sense of national identity.
 
 Outside of academia, I engage in photography and mentor high school students in academic preparation and school applications. With 8+ years of experience in photography, I have worked as a documentary and sports photographer/photojournalist for several media outlets. I have also served as a tutor and mentor for more than 40 high school students and families over the past 5+ years. I am also a serious foodie and on my way to becoming a gourmet.
 
