@@ -68,10 +68,10 @@ Outside of academia, I engage in photography and mentor high school students in 
 - Alumni 70th, [Taipei Municipal Chien-Kuo High School (CKHS)](https://www.ck.tp.edu.tw/nss/p/ckweben),
 Sep. 2015 - Jun. 2018.
 
+<!---
 ##### Working in progress 
 - Strategic Marketing through Network-Based Targeting.
 - Suburbanization by Smartphones and Online Networks.
-<!---
 - Income Gap by Race: Job Referral, Choice and Preference from Racial Social Networks.
 - Influencers in E-commerse: Matching and Persuasion to Consumers.
 --->
