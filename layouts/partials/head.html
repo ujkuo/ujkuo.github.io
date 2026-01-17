@@ -13,8 +13,8 @@
     {{ $style := resources.Get "sass/researcher.scss" | resources.ExecuteAsTemplate "sass/researcher.scss" . | toCSS | minify }}
     <link rel="stylesheet" href="{{ $style.RelPermalink }}">
     <link rel="icon" type="images/x-icon" href="/figure/favicon.ico" />
-    <link rel="icon" href="{{ "favicon.ico" | relURL }}">
-    <link rel="icon" href="{{ "figures/favicon.ico" | relURL }}">
+    <link rel="icon" href="{{ "favicon-v2.ico" | relURL }}" sizes="any">
+    <link rel="shortcut icon" href="{{ "favicon-v2.ico" | relURL }}">
 
     {{ with .Site.Params.favicon }}
         <link rel="icon" type="image/ico" href="{{ . | absURL }}">
