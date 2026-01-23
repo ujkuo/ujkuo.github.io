@@ -83,6 +83,10 @@ PygmentsStyle = "tango"
     name = "Blog"
     url = "/blog"
     weight = 4
+  [[menu.main]]
+    name = "Resources"
+    url = "/resources/"
+    weight = 5
 #  [[menu.main]]
 #    name = "Chambre"
 #    url = "/photo"
