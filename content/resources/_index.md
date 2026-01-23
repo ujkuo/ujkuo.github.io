@@ -36,7 +36,7 @@ This page collects a few open-source resources about research, predoc, and PhD.
 - [Predoc opportunities](https://www.predoc.org/opportunities) by PREDOC.ORG. 
 - [Econ RA Listings](https://x.com/econ_ra).
 
-#### Helpful and Isightful Writings
+#### Helpful and Insightful Writings
 
 ##### Intro to capital markets
 - [Alphanomics: The Informational Underpinnings of Market Efficiency](https://eso.scripts.mit.edu/docs/LeeSo%282015%29Alphanomics.pdf) by Charles M. C. Lee and  Eric C. So.
