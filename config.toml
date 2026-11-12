@@ -1,4 +1,4 @@
-title = "Jesse Yu-Chieh Kuo"
+title = ""
 baseURL = "https://ujkuo.github.io/"
 theme = "researcher"
 #disableKinds = ["taxonomy", "term"]
@@ -9,7 +9,7 @@ PygmentsCodeFences = true
 PygmentsStyle = "tango"
 
 [params]
-  author = "Yu-Chieh Kuo"
+  author = ""
   description = "A simple personal website made by Hugo."
   favicon = "/images/favicon.ico"  # path to a .ico to use as favicon
   logo = ""  # url or path to a logo to put in the header
@@ -26,7 +26,7 @@ PygmentsStyle = "tango"
   heading_font = "Corben"
   [params.footer]
     fontFamily = "Corben"
-    text = "Copyright Jesse Yu-Chieh Kuo 2021 - 2026 | Colophon"
+    text = "Copyright 2021 - 2026 | Colophon"
     url = "/colophon/"
     height = "50px"
     weight = "50px"
@@ -41,22 +41,22 @@ PygmentsStyle = "tango"
 #    icon = "fab fa-github-square"
 #    title = "Github"
 #    url = "https://github.com/ujkuo"
-  [[params.socialIcons]]
-    icon = "fab fa-linkedin"
-    title = "LinkedIn"
-    url = "https://www.linkedin.com/in/jesse-yu-chieh-kuo-94645b193/"
-  [[params.socialIcons]]
-    icon = "fas fa-envelope"
-    title = "E-mail"
-    url = "mailto:Jesse.Kuo@chicagobooth.edu"
+#  [[params.socialIcons]]
+#    icon = "fab fa-linkedin"
+#    title = "LinkedIn"
+#    url = "https://www.linkedin.com/in/jesse-yu-chieh-kuo-94645b193/"
+# [[params.socialIcons]]
+#    icon = "fas fa-envelope"
+#    title = "E-mail"
+#    url = "mailto:Jesse.Kuo@chicagobooth.edu"
 #  [[params.socialIcons]]
 #    icon = "fab fa-facebook"
 #    title = "Facebook"
 #    url = "https://www.facebook.com/YuChieh.Jesse.Kuo"
-  [[params.socialIcons]]
-    icon = "fab fa-twitter"
-    title = "Twitter"
-    url = "https://x.com/ycJesseK"
+#  [[params.socialIcons]]
+#    icon = "fab fa-twitter"
+#    title = "Twitter"
+#    url = "https://x.com/ycJesseK"
 
 [params.widgets]
   categories = true # Enable "Categories" widgets
@@ -67,26 +67,26 @@ PygmentsStyle = "tango"
   "/" = "/:section/:filename"
 
 [menu]
-  [[menu.main]]
-    name = "CV"
-    url = "/cv/CV.pdf"
-    weight = 2
-  [[menu.main]]
-    name = "Courses"
-    url = "/course/"
-    weight = 3
+#  [[menu.main]]
+#    name = "CV"
+# url = "/cv/CV.pdf"
+#    weight = 2
+#  [[menu.main]]
+#    name = "Courses"
+#    url = "/course/"
+#    weight = 3
 #  [[menu.main]]
 #    name = "Articles"
 #    url = "/articles/"
 #    weight = 4
-  [[menu.main]]
-    name = "Blog"
-    url = "/blog"
-    weight = 4
+#  [[menu.main]]
+#    name = "Blog"
+#    url = "/blog"
+#    weight = 4
   [[menu.main]]
     name = "Resources"
     url = "/resources/"
-    weight = 5
+    weight = 1
 #  [[menu.main]]
 #    name = "Chambre"
 #    url = "/photo"

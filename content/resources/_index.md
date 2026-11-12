@@ -29,7 +29,6 @@ This page collects a few open-source resources about research, predoc, and PhD.
 - [Finance and Metrics Notes](https://www.charlescywang.com/#) by Charles C.Y. Wang.
 
 #### Predoc
-- [Intro to Predoc](https://hackmd.io/@ujkuo/H1YxpPfws#/) by Jesse Yu-Chieh Kuo.
 - [Econ RA Guide](https://raguide.github.io).
 - [Code and Data for the Social Sciences: A Practitioner’s Guide](https://shapiro.scholars.harvard.edu/sites/g/files/omnuum7731/files/shapiro/files/codeanddata.pdf) by Matthew Gentzkow and Jesse M. Shapiro.
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu) by MIT.
@@ -52,6 +51,7 @@ This page collects a few open-source resources about research, predoc, and PhD.
 - [哈佛學記：鄭紹鈺的寫作空間](https://vocus.cc/salon/shaoyujheng?fbclid=IwY2xjawPgEapleHRuA2FlbQIxMABicmlkETFuMlltQUczVDVSTUlhWlBvc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHnQZ8hIxiTjKvjrK1RPaVkv8Ep3yN72llzq8Y1j3Qr7Fny4SVuygHYovA82N_aem_eHzJJJw_F3Zfq8jZDsDtTA) by Shao-Yu Jheng.
 - [10 Q&A: Experienced Advice for “Lost” Graduate Students in Economics](https://arielrubinstein.tau.ac.il/papers/10QA.pdf) by Ariel Rubinstein.
 - [Economic Fables](https://www.jstor.org/stable/j.ctt5vjswm) by Ariel Rubinstein.
+- [The Research Paper Playbook: A PhD Student's Guide to Writing and Presenting](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5379056) by Omri Even-Tov and Kristen Valentine.
 
 
 
